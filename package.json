@@ -1,0 +1,16 @@
+{
+  "name": "canada-tech-internships-2027-private",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private Canada tech internships verification sandbox — README consumer for the canada-tech-internships R2 feed.",
+  "scripts": {
+    "update-readme": "node .github/scripts/job-fetcher/update-readme-only.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.600.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

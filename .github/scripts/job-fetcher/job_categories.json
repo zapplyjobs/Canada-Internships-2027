@@ -1,0 +1,73 @@
+{
+  "software": {
+    "title": "Software Engineering",
+    "emoji": "\ud83d\udcbb",
+    "keywords": [
+      "software engineer",
+      "developer",
+      "backend",
+      "frontend",
+      "full stack",
+      "devops",
+      "sre",
+      "cloud",
+      "security",
+      "embedded",
+      "systems engineer"
+    ]
+  },
+  "hardware": {
+    "title": "Hardware & Systems",
+    "emoji": "\u2699\ufe0f",
+    "keywords": [
+      "hardware engineer",
+      "electrical",
+      "fpga",
+      "asic",
+      "validation",
+      "test engineer",
+      "power systems"
+    ]
+  },
+  "data_science": {
+    "title": "Data Science & Analytics",
+    "emoji": "\ud83d\udd2c",
+    "keywords": [
+      "data scientist",
+      "data analyst",
+      "machine learning",
+      "analytics",
+      "research scientist",
+      "actuarial",
+      "strategy analyst"
+    ]
+  },
+  "ai": {
+    "title": "AI / ML",
+    "emoji": "\ud83e\udd16",
+    "keywords": [
+      "artificial intelligence",
+      "ai",
+      "llm",
+      "ml",
+      "machine learning"
+    ]
+  },
+  "operations": {
+    "title": "Operations & Support",
+    "emoji": "\ud83d\udee0\ufe0f",
+    "keywords": [
+      "operations",
+      "support",
+      "customer success",
+      "field service",
+      "supply chain",
+      "program manager"
+    ]
+  },
+  "other": {
+    "title": "Other Tech Roles",
+    "emoji": "\ud83d\udcc2",
+    "keywords": []
+  }
+}

@@ -1,0 +1,71 @@
+name: Update README Only
+
+# Private verification sandbox — MANUAL TRIGGER ONLY.
+# Do NOT add a cron schedule until go-live (after the R2 + GH_PAT secrets are set
+# and the feed-driven README has been verified). See README "Required secrets (go-live)".
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+        ref: ${{ github.ref_name }}
+        token: ${{ secrets.GH_PAT }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Regenerate README from R2 feed (snapshot fallback)
+      env:
+        R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+        R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+        R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+      run: node .github/scripts/job-fetcher/update-readme-only.js
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        echo "📋 Git status:"
+        git status --porcelain
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ README.md was modified"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️  No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git commit -m "chore: regenerate README from canada R2 feed"
+        git push origin ${{ github.ref_name }}
+
+    - name: Create job summary
+      run: |
+        echo "## README Updated" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "**README.md regenerated**" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**No changes to README**" >> $GITHUB_STEP_SUMMARY
+        fi
