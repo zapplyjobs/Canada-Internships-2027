@@ -1,11 +1,12 @@
 name: Update README Only
 
-# Private verification sandbox — MANUAL TRIGGER ONLY.
-# Do NOT add a cron schedule until go-live (after the R2 + GH_PAT secrets are set
-# and the feed-driven README has been verified). See README "Required secrets (go-live)".
+# Canada consumer board — go-live 2026-07-02.
+# Cron schedule enabled after secrets set + feed-driven README verified.
 
 on:
-  workflow_dispatch:  # Manual trigger only
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # hourly auto-refresh — go-live 2026-07-02
 
 jobs:
   update-readme:
