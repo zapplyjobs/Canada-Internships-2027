@@ -151,7 +151,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Remitly** | Manager, Data Analytics | Burnaby, British ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Manager--Data-Analytics_R_106247) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto, Ontario,... | 9mo | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285974) |
-| **Cresta** | Machine Learning Engineering Intern | Toronto Canada | 21mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
+| **Cresta** | Machine Learning Engineering Intern | Toronto Canada | 22mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -221,8 +221,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | Full Time Instructor Pilot (Global/Ch... | Montreal | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Full-Time-Instructor-Pilot--Global-Challenger-_121631) |
 | **Curtiss-Wright** | Electronic Engineering Technologist –... | Ottawa | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Electronic-Engineering-Technologist---Onsite-Position_JR10454) |
 | **JLL** | Responsable des Systèmes d'Automatisa... | Bromont, QC | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bromont-QC/Building-Automation-Systems-Manager_REQ513706-1) |
-| **WSP** | Regional Project Manager - Property &... | Dartmouth, NS, Ca... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89924) |
-| **WSP** | Manager, Land Development & Municipal... | Red Deer, AB, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89950) |
+| **WSP** | Regional Project Manager - Property &... | Dartmouth, NS, Ca... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89924) |
+| **WSP** | Manager, Land Development & Municipal... | Red Deer, AB, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89950) |
 | **D.E. Shaw** | Trading System Data Specialist | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8028470) |
 | **Autodesk** | Intern, Content Management | Toronto, ON, CAN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) |
 | **Autodesk** | Treasury Manager | Toronto, ON, CAN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Treasury-Manager_26WD96333-1) |
@@ -318,6 +318,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 2, 2026
+**Last Updated**: July 3, 2026
 
 </div>
