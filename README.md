@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cohere** | Technical Program Manager, AI Deliver... | Ottawa | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda/application) |
 | **CAE** | C-FIN-201 Tax Intern – Tax Technology... | Montreal | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-201-Tax-Intern---Tax-Technology---AI-Enablement_121965) |
 | **CAE** | C-ESG-100 Sustainable Development Intern | Montreal | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-ESG-100-Sustainable-Development-Intern_121870) |
-| **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | 4mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
+| **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | 5mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
