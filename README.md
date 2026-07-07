@@ -135,7 +135,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rockwell Automation** | Co-op, Test Engineer Lab Assistant (C... | Cambridge, Ontari... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483) |
 | **WSP** | Electrical BIM Modeler | Vancouver, BC, Ca... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83123) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
-| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
+| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -167,7 +167,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
 | **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
-| **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
+| **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
 | **Mistral AI** | AI Deployment Strategist - Canada | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f/apply) |
 | **Capco** | Back-End - .NET, API, AI Ready | Toronto | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8018387) |
 | **FLIR Systems** | Gestionnaire de projets Industrialisa... | Bromont, QC | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Gestionnaire-de-projets-Industrialisation_REQ35184-1) |
@@ -239,7 +239,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magna** | Robotics Engineering Co-op | Toronto, Ontario, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Toronto-Ontario-CA/Robotics-Engineering-Co-op_R00248461) |
 | **Magna** | Computer Vision Engineering Co-op | Toronto, Ontario, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460) |
 | **CAE** | Full-Time Instructor Pilot (Global/Ch... | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Full-Time-Instructor-Pilot--Global-Challenger-_122524-1) |
-| **WSP** | Entry level Substation Engineer | Edmonton, AB, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/77802) |
+| **WSP** | Entry level Substation Engineer | Edmonton, AB, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/77802) |
 | **Leidos** | PMO Coordinator - 12 month Max tenure | Melbourne, Victor... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/PMO-Coordinator---12-month-Max-tenure_R-00185799) |
 | **FLIR Systems** | Recruteur | Bromont, QC | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Recruteur_REQ31499) |
 | **SS&C Technologies** | Associate, Investor Services | Mississauga Canad... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mississauga-Canada/Associate--Investor-Services_R40446) |
@@ -318,6 +318,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 6, 2026
+**Last Updated**: July 7, 2026
 
 </div>
