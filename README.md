@@ -147,7 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lightspeed** | Junior Analytics Engineer (Financial ... | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/700e9b58-3d8e-4b25-8ea1-7ad6e77beb1e/application) |
+| **Lightspeed** | Junior Analytics Engineer (Financial ... | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/700e9b58-3d8e-4b25-8ea1-7ad6e77beb1e/application) |
 | **Remitly** | Manager, Data Analytics | Burnaby, British ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Manager--Data-Analytics_R_106247) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto, Ontario,... | 9mo | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285974) |
@@ -232,7 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | Cross Sell, Business Development Mana... | Mississauga Skyma... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Business-Development-Manager---Outbound-Sales_R-10394780-1) |
 | **Nasdaq** | Verafin - Project Manager (Profession... | St. John's | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Project-Manager--Professional-Services-_R0026414) |
 | **Curtiss-Wright** | Project Manager, Nuclear | Brantford | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Brantford-Farris/Project-Manager--Nuclear_JR12333-1) |
-| **Pinterest** | Manager I, Engineering | Toronto, ON, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8015529) |
+| **Pinterest** | Manager I, Engineering | Toronto, ON, CA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8015529) |
 | **Citi** | Applications Development Sr Programme... | Mississauga Ontar... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst---C12---MISSISSAUGA_26967157) |
 | **ABB** | Project Manager | Laurent, Quebec, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Project-Manager_JR00039125) |
 | **ABB** | HSE Coordinator | Claire, Quebec, C... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pointe-Claire-Quebec-Canada/HSE-Coordinator_JR00037633) |
