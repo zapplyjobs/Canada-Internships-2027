@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **ICF** | Expert AI Enablement Consultant (On-C... | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/Expert-AI-Enablement-Consultant--On-Call-_R2602269-1) |
 | **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
-| **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
+| **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
 | **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
 | **Mistral AI** | AI Deployment Strategist - Canada | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f/apply) |
@@ -193,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Computer Support Specialist | On, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Computer-Support-Specialist_01855327) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163374-2) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163380-1) |
-| **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
+| **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
 | **SS&C Technologies** | Associate, Operations | Halifax, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
 
 <p align="center">Apply for more jobs at</p>
@@ -318,6 +318,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 7, 2026
+**Last Updated**: July 8, 2026
 
 </div>
