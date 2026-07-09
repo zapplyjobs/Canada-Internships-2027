@@ -22,5 +22,6 @@ module.exports = {
   feedKey: 'canada-tech-internships.jsonl',
   r2Prefix: 'data/',
   filters: { locations: ['canada'] },
-  activeWindowDays: 120
+  activeWindowDays: 120,
+  contributorLocation: 'Canada'
 };

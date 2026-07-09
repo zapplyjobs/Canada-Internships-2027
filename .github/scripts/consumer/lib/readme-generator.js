@@ -564,7 +564,7 @@ ${(() => {
 
 Add new jobs to our listings keeping in mind the following:
 
-- Located in the US.
+- Located in ${config.contributorLocation || 'the US'}.
 - Openings are currently accepting applications and not older than 1 week.
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
