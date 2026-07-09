@@ -130,10 +130,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | ASIC CAD Co-op/Intern | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) |
 | **Nokia** | Hardware Engineer Co-op/Intern | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232) |
 | **Nokia** | ASIC Verification Intern | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) |
-| **WSP** | High Voltage Electrical Construction ... | Vancouver, WA, Un... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89802) |
+| **WSP** | High Voltage Electrical Construction ... | Vancouver, WA, Un... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89802) |
 | **General Motors** | Software Test Engineering - Autonomou... | Markham, Ontario,... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Test-Engineering---Autonomous-Interface-Software_JR-202613665-1) |
 | **Rockwell Automation** | Co-op, Test Engineer Lab Assistant (C... | Cambridge, Ontari... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483) |
-| **WSP** | Electrical BIM Modeler | Vancouver, BC, Ca... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83123) |
+| **WSP** | Electrical BIM Modeler | Vancouver, BC, Ca... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83123) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
 | **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
 
@@ -164,7 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **ICF** | Expert AI Enablement Consultant (On-C... | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/Expert-AI-Enablement-Consultant--On-Call-_R2602269-1) |
-| **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
+| **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
 | **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
 | **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
@@ -189,7 +189,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Hitachi** | Field Service Representative | Kelowna, British ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kelowna-British-Columbia-Canada/Field-Service-Representative_R0127691) |
-| **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
+| **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
 | **RTX** | Computer Support Specialist | On, CA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Computer-Support-Specialist_01855327) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163374-2) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163380-1) |
@@ -318,6 +318,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 8, 2026
+**Last Updated**: July 9, 2026
 
 </div>
