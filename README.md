@@ -191,9 +191,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Student Researcher, PhD, Winter/Summe... | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97480706799608518) |
-| **Google** | Student Researcher, BS/MS, Winter/Sum... | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123358125276177094) |
-| **Google** | Data Center Technician | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138979603392668358) |
+| **Google** | Student Researcher, PhD, Winter/Summe... | Canada | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97480706799608518) |
+| **Google** | Student Researcher, BS/MS, Winter/Sum... | Canada | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123358125276177094) |
+| **Google** | Data Center Technician | Canada | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138979603392668358) |
 | **WSP** | Chargé(e) de projet - Projets usine m... | Chicoutimi, QC, C... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/84052) |
 | **State Street** | Securities Valuation Internship | Toronto, Ontario | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Securities-Valuation-Internship_R-791947) |
 | **Johnson Controls** | CFAA Fire Alarm Inspector | Ontario | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Hamilton-Ontario-Canada/CFAA-Fire-Alarm-Inspector_WD30272827-1) |
