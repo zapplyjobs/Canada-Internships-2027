@@ -545,6 +545,7 @@ ${(() => {
     { prefix: 'rss', url: 'https://github.com/zapplyjobs/resume-samples-2026', img: 'repo-rss.png', alt: 'Resume Samples' },
     { prefix: 'ihb', url: 'https://github.com/zapplyjobs/interview-handbook-2026', img: 'repo-ihb.png', alt: 'Interview Handbook' },
     { prefix: 'int', url: 'https://github.com/zapplyjobs/Internships-2027', img: 'repo-int.png', alt: 'Internships 2027' },
+    { prefix: 'rifu', url: 'https://github.com/zapplyjobs/Research-Internships-for-Undergraduates', img: 'repo-rifu.png', alt: 'Research Internships' },
     { prefix: 'uci', url: 'https://github.com/zapplyjobs/underclassmen-internships', img: 'repo-uci.png', alt: 'Underclassmen Internships' },
     { prefix: 'ngj-can', url: 'https://github.com/zapplyjobs/Canada-Jobs-2027', img: 'repo-ngj-can.png', alt: 'Canada Jobs 2027' },
     { prefix: 'int-can', url: 'https://github.com/zapplyjobs/Canada-Internships-2027', img: 'repo-int-can.png', alt: 'Canada Internships 2027' },
