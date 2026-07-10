@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-206-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-167-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-198-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-162-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,27 +68,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | Junior Embedded Software Developer / ... | St. Laurent, Queb... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Junior-Embedded-Software-Developer---Dveloppeur-Logiciel-Embarqu-Junior_1209839-2) |
 | **HPE** | Junior Embedded Software Developer / ... | St. Laurent, Queb... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Junior-Embedded-Software-Developer---Dveloppeur-Logiciel-Embarqu-Junior_1209839) |
+| **HPE (University)** | Junior Embedded Software Developer / ... | St. Laurent, Queb... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Junior-Embedded-Software-Developer---Dveloppeur-Logiciel-Embarqu-Junior_1209839-2) |
 | **WSP** | Corporate Security Coordinator | Ottawa, ON, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90673) |
+| **TD Bank** | Software Engineer Intern/Co-op (Fall ... | Toronto, Ontario | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) |
 | **Motorola Solutions** | Service Cloud Product Owner (Canada R... | Vancouver, Canada... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Service-Cloud-Product-Owner--Canada-Remote-_R65701) |
+| **Hitachi** | OT Cyber Security Advisor | Toronto, Ontario,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/OT-Cyber-Security-Advisor_R1011402-1) |
+| **Lumentum** | Embedded Development and Systems Support | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Engineer-Staff--SW-Development_202674) |
 | **Citi** | Java Developer Sr Analyst - Assistant... | Mississauga Ontar... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Developer-Sr-Analyst---Assistant-Vice-President_26963338) |
 | **Citi** | Java Developer Sr Programmer Analyst ... | Mississauga Ontar... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Developer-Sr-Programmer-Analyst---Assistant-Vice-President_26963336) |
 | **Citi** | Java Developer Sr Analyst - Assistant... | Mississauga Ontar... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Developer-Sr-Analyst---Assistant-Vice-President_26955372) |
-| **Hitachi** | OT Cyber Security Advisor | Toronto, Ontario,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/OT-Cyber-Security-Advisor_R1011402-1) |
-| **TD Bank** | Software Engineer Intern/Co-op (Fall ... | Toronto, Ontario | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) |
-| **Lumentum** | Embedded Development and Systems Support | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Engineer-Staff--SW-Development_202674) |
 | **WSP** | Corporate Security Specialist | Ottawa, ON, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90668) |
 | **TD Bank** | Information Security Specialist - Red... | Toronto Ontario +... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Red-Team-Operator_R_1496821-1) |
 | **Capco** | Consultant, Technology Controls & Cyb... | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045742) |
 | **Ada** | Software Engineering Intern | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8615728002) |
 | **Ciena** | Stagiaire en développement logiciel -... | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R031275) |
-| **InterDigital** | Intern, Cybersecurity (Montreal) | Montreal, CAD | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Cybersecurity--Montreal-_REQ26-1116) |
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
 | **Ciena** | Embedded Software Engineer Intern (12... | Ottawa | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) |
 | **Ciena** | Embedded Software Engineer Intern (4 ... | Ottawa | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) |
-| **Analog Devices** | Embedded Software Co-Op | Canada, Vancouver | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Embedded-Software-Co-Op_R263562) |
 | **Autodesk** | Intern, Machine Learning Developer | Toronto, ON, CAN | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) |
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, Ontario,... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | **Nox Metals** | Software Engineering Intern | US/Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application) |
@@ -120,7 +118,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | Stagiaire en HVDC – Ingénieur en élec... | Saint Laurent Que... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/Stagiaire-en-HVDC---Ingnieur-en-lectricit---Matrise-ou-doctorat-Electrical-Engineering-Intern-HVDC-Master-or-PhD_R0134935) |
 | **WSP** | Electrical and Controls Drafter/Desig... | Calgary, AB, Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83692) |
 | **Rockwell Automation** | Co-op, Test Engineer Lab Assistant (C... | Cambridge, Ontari... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483) |
-| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -149,8 +146,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Citi** | Python AI Engineering - Assistant Vic... | Mississauga Ontar... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Python-AI-Engineering---Assistant-Vice-President_26967161-1) |
 | **AspenTech** | Partenaire Sénior, Expérience Employé | Montreal | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Montreal-Mansfield/Partenaire-Snior--Exprience-Employ_R9245) |
+| **Citi** | Python AI Engineering - Assistant Vic... | Mississauga Ontar... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Python-AI-Engineering---Assistant-Vice-President_26967161-1) |
 | **Autodesk** | Intern, AI in Design & Manufacturing | Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900) |
 | **Ciena** | AI Champion | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Champion_R031243) |
 | **Canadian Tire** | Agentic AI Program Manager | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Agentic-AI-Program-Manager_JR157062-1) |
@@ -172,12 +169,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CAE** | In-Service Support (ISS) Project Manager | Montreal St Laure... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/In-Service-Support--ISS--Project-Manager_122505) |
 | **WSP** | Assistant, Administrative Support | Whitby, ON, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90148) |
 | **Stanley Black & Decker** | Program Manager — Master Data Initiat... | Remote | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Ontario-Canada---Remote/Program-Manager---Master-Data-Initiatives-Remote_REQ-1000049647) |
 | **Lyft** | Associate Program Manager, Technical ... | Toronto, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8599672002?gh_jid=8599672002) |
 | **Autodesk** | Technical Program Manager | Vancouver, BC, CAN | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Technical-Program-Manager_26WD99636-1) |
-| **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
 | **Affirm** | Revenue Enablement Program Manager | Remote Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7691159003) |
 | **Cisco** | Customer Experience Customer Success ... | Montreal Quebec C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Customer-Experience-Customer-Success-Specialist---Splunk--Remote-_2015303) |
 
@@ -240,7 +235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 206 current opportunities from 65 companies**
+**🎯 198 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
