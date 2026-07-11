@@ -1,0 +1,10 @@
+# Zapply Jobs — Canada Internships 2027
+
+> Curated internship and co-op listings for students across Canada. Updated hourly. Canada-focused.
+
+## What this repo provides
+- 200+ internship and co-op listings updated hourly
+- Jobs from Canadian employers across multiple ATS platforms
+- Structured data: title, company, location, apply URL, domain tags
+- Enriched data: required skills, visa sponsorship, summary
+- Canada-focused internships and co-ops for students
