@@ -1,8 +1,8 @@
 {
-  "name": "canada-tech-internships-2027-private",
+  "name": "canada-tech-internships-2027",
   "version": "1.0.0",
   "private": true,
-  "description": "Private Canada tech internships verification sandbox — README consumer for the canada-tech-internships R2 feed.",
+  "description": "Private Canada tech internships verification sandbox \u2014 README consumer for the canada-tech-internships R2 feed.",
   "scripts": {
     "update-readme": "node .github/scripts/job-fetcher/update-readme-only.js"
   },
