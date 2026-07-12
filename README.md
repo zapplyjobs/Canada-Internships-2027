@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-216-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-174-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-72-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-213-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-171-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-71-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -240,7 +240,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 216 current opportunities from 72 companies**
+**🎯 213 current opportunities from 71 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
