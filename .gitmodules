@@ -1,3 +1,0 @@
-[submodule ".github/scripts/consumer"]
-	path = .github/scripts/consumer
-	url = https://github.com/zapplyjobs/job-board-consumer.git
