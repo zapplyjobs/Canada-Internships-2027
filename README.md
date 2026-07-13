@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-207-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-162-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-73-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-203-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-158-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-72-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,7 +66,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Hitachi** | Embedded Hardware Process Manager / H... | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Embedded-Hardware-Process-Manager---HEM-Process-Referent_R1008808-1) |
 | **TD Bank** | Group Risk Specialist – Information S... | Toronto Ontario +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Group-Risk-Specialist---Information-Security-Risk-Management--4925-_R_1499406) |
 | **CIBC** | Consultant, Information Security | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Information-Security_2614040) |
 | **CAE** | CyberSecurity Specialist - Cybersecur... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Cybersecurity-Specialist---Cybersecurity-Executive--Policy--and-Standards_122354) |
@@ -246,7 +245,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 207 current opportunities from 73 companies**
+**🎯 203 current opportunities from 72 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
