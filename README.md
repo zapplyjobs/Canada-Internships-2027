@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-203-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-161-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-202-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-159-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-72-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -67,7 +67,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **DRW** | Software Developer Intern | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
-| **Citi** | Back-End Java Developer, Assistant Vi... | Mississauga Ontar... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Back-End-Java-Developer--Assistant-Vice-President_26977397) |
 | **TD Bank** | Group Risk Specialist – Information S... | Toronto Ontario +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Group-Risk-Specialist---Information-Security-Risk-Management--4925-_R_1499406) |
 | **CIBC** | Consultant, Information Security | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Information-Security_2614040) |
 | **CAE** | CyberSecurity Specialist - Cybersecur... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Cybersecurity-Specialist---Cybersecurity-Executive--Policy--and-Standards_122354) |
@@ -84,8 +83,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ada** | Software Engineering Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8615728002) |
 | **Aptiv** | Associate Engineer - Cloud | CAN Kanata (2), O... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud_J000699956) |
-| **Manulife** | Junior Analyst Developer - Investment... | Montreal Quebec +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Junior-Analyst-Developer---Investment-Risk--Early-Career-_JR26051710) |
 | **HPE** | Junior UI developer / Développeur UI ... | St. Laurent, Queb... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468) |
+| **HPE (University)** | Junior UI developer / Développeur UI ... | St. Laurent, Queb... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468-2) |
 | **Ciena** | Stagiaire en développement logiciel -... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R031275) |
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
 | **Ciena** | Embedded Software Engineer Intern (12... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) |
@@ -132,6 +131,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **BMO** | Manager, Machine Learning | Toronto, ON, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Machine-Learning_R260020671) |
 | **TD Bank** | Technical Product Owner - AI & Machin... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner---AI---Machine-Learning-Solutions_R_1496435) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
 | **CIBC** | Manager, Data and Analytics | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Data-and-Analytics_2612869) |
@@ -246,7 +246,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 203 current opportunities from 72 companies**
+**🎯 202 current opportunities from 72 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
