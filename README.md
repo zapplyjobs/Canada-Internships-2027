@@ -19,7 +19,7 @@
 
 ![Total Internships](https://img.shields.io/badge/Total_Internships-201-brightgreen?style=flat&logo=briefcase)
 ![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-158-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-72-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-70-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -82,7 +82,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capco** | Consultant, Technology Controls & Cyb... | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045742) |
 | **Ada** | Software Engineering Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8615728002) |
-| **HPE** | Junior UI developer / Développeur UI ... | St. Laurent, Queb... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468) |
 | **Ciena** | Stagiaire en développement logiciel -... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R031275) |
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
 | **Ciena** | Embedded Software Engineer Intern (12... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) |
@@ -110,11 +109,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Ciena** | AI-Enabled Software Test Engineer - N... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842) |
 | **WSP** | Electrical Designer, Buildings M&E | Winnipeg, MB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/84668) |
-| **Ciena** | Junior Test Engineer, Test Station Va... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283) |
+| **Ciena** | AI-Enabled Software Test Engineer - N... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842) |
 | **Stantec** | Electrical Engineering Technologist -... | Saskatoon, SK, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006519) |
 | **Stantec** | Electrical Distribution Designer - EIT | Saskatoon, SK, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006520) |
+| **Ciena** | Junior Test Engineer, Test Station Va... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283) |
 | **WSP** | Electrical and Controls Drafter/Desig... | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83692) |
 | **Rockwell Automation** | Co-op, Test Engineer Lab Assistant (C... | Cambridge, Ontari... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483) |
 | **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
@@ -244,7 +243,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 201 current opportunities from 72 companies**
+**🎯 201 current opportunities from 70 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
