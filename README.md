@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-195-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-153-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-70-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-193-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-151-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -76,9 +76,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magical** | New Grad Software Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/magical/46f06c31-9b98-4963-aabe-f70538908c62/application) |
 | **Salesforce** | Software Engineering SMTS | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR343396) |
 | **WSP** | Corporate Security Coordinator | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90673) |
+| **Motorola Solutions** | Service Cloud Product Owner (Canada R... | Vancouver, Canada... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Service-Cloud-Product-Owner--Canada-Remote-_R65701) |
 | **Lumentum** | Embedded Development and Systems Support | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Engineer-Staff--SW-Development_202674) |
 | **Hitachi** | OT Cyber Security Advisor | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/OT-Cyber-Security-Advisor_R1011402-1) |
-| **Motorola Solutions** | Service Cloud Product Owner (Canada R... | Vancouver, Canada... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Service-Cloud-Product-Owner--Canada-Remote-_R65701) |
 | **WSP** | Corporate Security Specialist | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90668) |
 | **Capco** | Consultant, Technology Controls & Cyb... | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045742) |
 | **Ada** | Software Engineering Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
@@ -242,7 +242,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 195 current opportunities from 70 companies**
+**🎯 193 current opportunities from 68 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
