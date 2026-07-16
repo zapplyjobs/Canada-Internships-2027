@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-181-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-141-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-178-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-139-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -148,7 +148,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Morgan Stanley** | Applied AI Engineering Specialist (Hy... | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Applied-AI-Engineering-Specialist--Hybride-_PT-JR034826) |
 | **CAE** | C-ESG-100 Sustainable Development Intern | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-ESG-100-Sustainable-Development-Intern_121870) |
 | **CAE** | Bombardier Maintenance Instructor ($5... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Bombardier-Maintenance-Instructor_122644) |
 | **Ciena** | AI Champion | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Champion_R031243) |
@@ -239,7 +238,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 181 current opportunities from 57 companies**
+**🎯 178 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
