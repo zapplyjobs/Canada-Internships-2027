@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-145-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-146-brightgreen?style=flat&logo=briefcase)
 ![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-115-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-52-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -161,6 +161,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91819) |
 | **Gilead Sciences** | IT Support Engineering Specialist | Alberta | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Alberta---Edmonton/IT-Support-Engineering-Specialist_R0053411-1) |
 | **Nasdaq** | Verafin – Office Support Coordinator | St. John's | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Office-Support-Coordinator_R0026520) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
@@ -224,7 +225,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 145 current opportunities from 52 companies**
+**🎯 146 current opportunities from 52 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
