@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-138-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-110-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-133-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-106-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-47-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,8 +66,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Developer Intern, MS, Summer... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) |
-| **Google** | Software Developer Intern, BS, Summer... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/76982475250639558) |
 | **Cerebras Systems** | ML Software Engineer - Integration & ... | and Canada Offices | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application) |
 | **Canadian Tire** | Program Manager, Data and AI Security | Toronto ON + 2 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Program-Manager--Data-Application-and-AI-Security_JR154070) |
 | **CAE** | C-MAD-100 Test Software Developer Intern | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/XMLNAME----C-MAD-100-Test-Software-Developer-Intern_122512) |
@@ -103,7 +101,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
 | **WSP** | Electrical and Controls Designer, Energy | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/79102) |
-| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -220,7 +217,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 138 current opportunities from 47 companies**
+**🎯 133 current opportunities from 47 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
