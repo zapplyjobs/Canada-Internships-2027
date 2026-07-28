@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-147-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-114-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-63-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-186-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-144-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,13 +66,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | Information Security Specialist - Tec... | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Technology-Asset-Governance-and-Risk-Management_R_1499627-1) |
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
-| **TD Bank** | Audit Manager I - Global Cybersecurit... | Toronto Ontario +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-I---Global-Cybersecurity--ATH-1092-_R_1500037) |
+| **Morgan Stanley** | Cybersecurity Platform Specialist (Ku... | Montreal, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Cybersecurity-Platform-Specialist--Kubernetes-workload-protection---Hybrid-_JR040954-1) |
+| **General Motors** | Engineering Group Manager - Software ... | Markham Ontario C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Engineering-Group-Manager---Software-Engineering_JR-202615708) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Halifax-Canada/Specialist--Information-Security_JR_051051-1) |
+| **Citi** | Assistant Vice President, eTrading Co... | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Assistant-Vice-President--Fixed-Income-eTrading-Core-Java-Developer_26959732) |
 | **Ciena** | Routing/IP Software Developer Intern ... | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) |
+| **TD Bank** | Information Security Specialist | Toronto Ontario +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1499781) |
+| **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
 | **Ciena** | Software Engineer and Tools Developer... | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
+| **TD Bank** | Group Risk Specialist – Technology an... | Toronto Ontario +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Group-Risk-Specialist---Technology-and-Cybersecurity-Risk-Management--TCRM---5039-_R_1500465) |
 | **Canadian Tire** | Program Manager, Data and AI Security | Toronto ON + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Program-Manager--Data-Application-and-AI-Security_JR154070) |
 | **DRW** | Software Developer Intern | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | **Capco** | Consultant, Technology Controls & Cyb... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045742) |
@@ -98,12 +102,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Thermo Fisher Scientific** | Validation Engineering Specialist I | Mississauga, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Validation-Engineering-Specialist-I_R-01360486) |
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
-| **ABB** | Electrical Engineering Intern | Laurent, Quebec, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Electrical-Engineering-Intern_JR00039522) |
+| **WSP** | Electrical and Controls Designer, Energy | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/79102) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
+| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -115,9 +119,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | Manager, Advanced Analytics | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Manager--Advanced-Analytics_R_1499999) |
-| **Manulife** | AVP, Business Analytics & Insights | Toronto Ontario +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--Business-Analytics---Insights_JR26070904-1) |
-| **BMO** | Manager, Risk Data Analytics | Toronto, ON, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Risk-Data-Analytics_R260020124) |
+| **CIBC** | Manager, Data and Analytics | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Data-and-Analytics_2612869) |
+| **BMO** | Manager,  Data Science and Machine Le... | Toronto, ON, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager---Data-Science-and-Machine-Learning_R260021235) |
+| **BMO** | Data Scientist, Fall 2026 ( Co-op/Int... | Toronto, ON, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
+| **CIBC** | Consultant, Data Engineering & Analytics | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Data-Engineering---Analytics_2615108-2) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/61d2266a-c25d-4d80-b89d-a06c6c9e6668/application) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/7269857e-997f-4431-b86a-4d32325ae8d6/application) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
@@ -140,8 +145,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Teledyne** | Stagiaire en photochimie | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-photochimie_REQ35811) |
 | **FLIR Systems** | Stagiaire en photochimie | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-photochimie_REQ35811) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
+| **Citi** | Apps Support Group Manager - Pega & AI | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Support-Group-Manager---Pega---AI_26978636) |
 | **CAE** | Training Solutions Specialist | Montreal St Laure... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Training-Solutions-Specialist_122601) |
+| **WSP** | Stagiaire, Génie électrique | Montreal, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91301) |
 | **CAE** | Commercial Aviation Maintenance Train... | Toronto + 3 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Toronto/Commercial-Aviation-Maintenance-Training-Instructor_122584) |
+| **WSP** | Ingénieur(e) intermédiaire en contrôl... | d'Or, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91367) |
+| **WSP** | Gestionnaire poste électrique | Montreal, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91379) |
+| **Morgan Stanley** | Applied AI Engineering Specialist (Hy... | Montreal, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Applied-AI-Engineering-Specialist--Hybride-_PT-JR034826) |
 | **DRW** | AI/ML Research Intern | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | **Anaplan** | Privacy & AI Governance Counsel | Ottawa, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anaplan/jobs/8629161002) |
 | **Xsolla** | AI-First Engineering Intern | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) |
@@ -161,6 +171,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277747) |
 | **Vertiv** | Field Service Representative - Thermal | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277749) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91819) |
+| **CIBC** | Consultant, Application Support | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Application-Support_2610539-1) |
+| **CIBC** | Production Application Support Consul... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Production-Application-Support-Consultant_2615299) |
+| **TD Bank** | Group Manager 1, TDS Operations | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Group-Manager-1--TDS-Operations_R_1501006) |
 | **Gilead Sciences** | IT Support Engineering Specialist | Alberta | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Alberta---Edmonton/IT-Support-Engineering-Specialist_R0053411-1) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
 | **DRW** | Application Support Specialist | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7513647) |
@@ -224,7 +237,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 147 current opportunities from 63 companies**
+**🎯 186 current opportunities from 64 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
