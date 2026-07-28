@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-163-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-121-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-58-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-161-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-120-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -99,7 +99,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Vernova** | AI Workflow Project Manager Electrica... | Markham + 1 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Markham/AI-Workflow-Project-Manager-Electrical-Engineering-Automation_R5047674-2) |
+| **Thermo Fisher Scientific** | Validation Engineering Specialist I | Mississauga, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Validation-Engineering-Specialist-I_R-01360486) |
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
@@ -164,7 +164,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Medtronic** | Field Service Representative - 1 year... | Brampton, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Field-Service-Representative---1-year-Contract_R70104-1) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277747) |
 | **Vertiv** | Field Service Representative - Thermal | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277749) |
 | **CIBC** | Consultant, Application Support | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Application-Support_2610539-1) |
@@ -233,7 +232,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 163 current opportunities from 58 companies**
+**🎯 161 current opportunities from 57 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
