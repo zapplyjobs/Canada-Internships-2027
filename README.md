@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-163-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-126-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-161-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-125-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -99,7 +99,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Software-Development-Manager--Validation---Verification-_260004401-1) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92153) |
-| **Thermo Fisher Scientific** | Validation Engineering Specialist I | Mississauga, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Validation-Engineering-Specialist-I_R-01360486) |
 | **Hitachi** | Hardware Electrical Designer | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Electrical-Designer_R1012439) |
 | **ABB** | Electrical Engineering Intern-Fall 2026 | Milton, Ontario, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milton-Ontario-Canada/Electrical-Engineering-Intern-Fall-2026_JR00041790) |
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
@@ -226,7 +225,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 163 current opportunities from 65 companies**
+**🎯 161 current opportunities from 64 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
