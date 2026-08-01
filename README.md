@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Total Internships](https://img.shields.io/badge/Total_Internships-147-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-111-informational?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-110-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -156,6 +156,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Faire** | IT Support Technician | Waterloo, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Medtronic** | Field Service Representative - 1 year... | Brampton, Ontario... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
