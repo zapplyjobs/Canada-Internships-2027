@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-164-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-122-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-67-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-162-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-119-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -164,6 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Faire** | IT Support Technician | Waterloo, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -229,7 +230,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 164 current opportunities from 67 companies**
+**🎯 162 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
