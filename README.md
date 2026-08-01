@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-150-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-112-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-152-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-113-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-61-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **BMO** | Software Developer (New or Recent Gra... | Toronto, ON, CAN | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | 2026 Fall Co-op Digital Vehicle Exper... | Markham, Ontario,... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -129,6 +130,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **RTX** | Spécialiste en fiabilité de la mainte... | Qc, CA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Quality Engineering - Chassis/Powertrain | Oshawa, Ontario, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Stagiaire en planification de la mobi... | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Technicien(ne) opération et traitemen... | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -225,7 +227,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 150 current opportunities from 61 companies**
+**🎯 152 current opportunities from 61 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
