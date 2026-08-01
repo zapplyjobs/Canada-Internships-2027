@@ -69,8 +69,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Morgan Stanley** | Cybersecurity Platform Specialist (Ku... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Morgan Stanley** | Cybersecurity Platform Specialist (Ku... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **DRW** | Software Developer Intern | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Embedded Software Engineer – Intern | Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | QA Automation Developer Intern (Fall ... | Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
