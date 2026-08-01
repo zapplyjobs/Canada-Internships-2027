@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Hitachi** | Hardware Electrical Designer | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -162,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CIBC** | Consultant, Application Support | Toronto, ON | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Consultant, Application Support | Toronto, ON | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
