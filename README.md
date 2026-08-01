@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-168-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-125-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-171-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-126-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -71,8 +71,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TD Bank** | Audit Manager I - Global Cybersecurit... | Toronto Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **General Motors** | Engineering Group Manager - Software ... | Markham Ontario C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **General Motors** | Engineering Group Manager - Software ... | Markham Ontario C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Software Engineer and Tools Developer... | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **DRW** | Software Developer Intern | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Embedded Software Engineer – Intern | Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Hitachi** | Hardware Electrical Designer | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -116,9 +116,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CIBC** | Manager, Data Science and Analytics | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CIBC** | Manager, Media Analytics & BI Enablem... | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Manager, Data Science and Analytics | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TD Bank** | Manager, Advanced Analytics | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Consultant, Data Engineering & Analytics | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cresta** | Machine Learning Engineering Intern | Toronto, Canada (... | 22mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -133,11 +134,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | Quality Engineering - Chassis/Powertrain | Oshawa, Ontario, ... | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **General Motors** | Quality Engineering - Chassis/Powertrain | Oshawa, Ontario, ... | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Canadian Tire** | AI Automation Student (4 months) - Fa... | Calgary, AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Stagiaire en planification de la mobi... | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Technicien(ne) opération et traitemen... | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Parsons** | Human Factors Specialist – Rail & Tra... | BC, Burnaby, R182... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Canadian Tire** | AI Enablement Student (4 months) - Fa... | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Air Liquide** | Maintenance & Instrumentation | Hamilton, ON - Bi... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | Air Traffic Services Instructor | Montreal | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Technical Program Manager, Amazon Ful... | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -160,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CIBC** | Consultant, Application Support | Toronto, ON | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Consultant, Application Support | Toronto, ON | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -231,7 +233,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 168 current opportunities from 65 companies**
+**🎯 171 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
