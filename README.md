@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-164-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-128-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-162-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-127-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -104,7 +104,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -225,7 +224,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 164 current opportunities from 59 companies**
+**🎯 162 current opportunities from 60 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
