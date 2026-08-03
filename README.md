@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-146-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-109-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-144-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-106-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -70,7 +70,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Halifax-Canada/Specialist--Information-Security_JR_051051-1) |
-| **Thales** | DevOps Sub-discipline Manager | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/DevOps-Sub-discipline-Manager_R0334763-1) |
 | **DRW** | Software Developer Intern | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | **Ciena** | Embedded Software Engineer – Intern | Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
 | **Ciena** | QA Automation Developer Intern (Fall ... | Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/QA-Automation-Developer-Intern--Fall-2026---8-months-_R030980) |
@@ -158,6 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278060) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278062) |
 | **Faire** | IT Support Technician | Waterloo, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002) |
+| **Medtronic** | Field Service Representative - 1 year... | Brampton, Ontario... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Field-Service-Representative---1-year-Contract_R70104-1) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277747) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91819) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
@@ -223,7 +223,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 146 current opportunities from 60 companies**
+**🎯 144 current opportunities from 59 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
