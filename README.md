@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-144-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-107-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-143-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-106-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-58-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, Britis... | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556951951) |
+| **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, Britis... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556951951) |
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Halifax-Canada/Specialist--Information-Security_JR_051051-1) |
@@ -222,7 +222,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 144 current opportunities from 59 companies**
+**🎯 143 current opportunities from 58 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
