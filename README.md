@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-171-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-130-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-58-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-182-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-138-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-62-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -103,6 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Pluggable-Optical-Modem-Test-Engineer---New-Grad_R031415-1) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Software-Development-Manager--Validation---Verification-_260004401-1) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92153) |
+| **ABB** | Electrical Engineering Intern-Fall 2026 | Milton, Ontario, ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milton-Ontario-Canada/Electrical-Engineering-Intern-Fall-2026_JR00041790) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
 | **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
@@ -119,6 +120,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **CIBC** | Manager, Media Analytics & BI Enablem... | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Media-Analytics---BI-Enablement---12-Month-Secondment_2615618) |
 | **CIBC** | Manager, Data Science and Analytics | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Data-and-Analytics_2612869) |
+| **Capital One** | Associate, Strategy Analyst - New Gra... | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2026_R222944) |
+| **Manulife** | AVP, Business Analytics & Insights | Toronto Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--Business-Analytics---Insights_JR26070904-1) |
 | **TD Bank** | Manager, Advanced Analytics | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Manager--Advanced-Analytics_R_1499999) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
@@ -233,7 +236,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 171 current opportunities from 58 companies**
+**🎯 182 current opportunities from 62 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
