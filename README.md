@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-167-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-123-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-168-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-125-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,10 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, Britis... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556951951) |
+| **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, Britis... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556951951) |
+| **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/SRE-Associate--Hybrid-_PT-JR040929) |
 | **TD Bank** | Information Security Specialist - Tec... | Toronto, Ontario | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Technology-Asset-Governance-and-Risk-Management_R_1499627-1) |
 | **Ciena** | Software Engineering Intern (4 Months) | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
+| **Morgan Stanley** | Cybersecurity Platform Specialist (Ku... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Cybersecurity-Platform-Specialist--Kubernetes-workload-protection---Hybrid-_JR040954-1) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Halifax-Canada/Specialist--Information-Security_JR_051051-1) |
 | **Citi** | Assistant Vice President, eTrading Co... | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Assistant-Vice-President--Fixed-Income-eTrading-Core-Java-Developer_26959732) |
 | **Citi** | Gen AI Python Developer - Assistant V... | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Gen-AI-Python-Developer---Assistant-Vice-President_26958748) |
@@ -99,7 +101,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Pluggable-Optical-Modem-Test-Engineer---New-Grad_R031415-1) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Software-Development-Manager--Validation---Verification-_260004401-1) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92153) |
-| **Thermo Fisher Scientific** | Validation Engineering Specialist I | Mississauga, Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Validation-Engineering-Specialist-I_R-01360486) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
 | **WSP** | Intern, Electrical Engineering - Fall... | Thornhill, ON, Ca... | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86377) |
@@ -116,6 +117,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **CIBC** | Manager, Media Analytics & BI Enablem... | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Media-Analytics---BI-Enablement---12-Month-Secondment_2615618) |
 | **CIBC** | Manager, Data Science and Analytics | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Manager--Data-and-Analytics_2612869) |
+| **Manulife** | AVP, Business Analytics & Insights | Toronto Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--Business-Analytics---Insights_JR26070904-1) |
 | **BMO** | Manager,  Data Science and Machine Le... | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager---Data-Science-and-Machine-Learning_R260021235) |
 | **BMO** | Data Scientist, Fall 2026 ( Co-op/Int... | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
@@ -135,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Canadian Tire** | AI Automation Student (4 months) - Fa... | Calgary, AB | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947) |
 | **WSP** | Stagiaire en planification de la mobi... | Montreal, QC, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92308) |
 | **WSP** | Technicien(ne) opération et traitemen... | Montreal, QC, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92314) |
-| **Parsons** | Human Factors Specialist – Rail & Tra... | BC, Burnaby, R182... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---BC-Burnaby/Human-Factors-Specialist---Rail---Transit-Systems_R182265) |
+| **Morgan Stanley** | AI Patterns and Controls Monitoring P... | Montreal, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/AI-Patterns-and-Controls-Monitoring-Professional---NFR-Artificial-Intelligence-Governance--Hybrid-_PT-JR040879) |
 | **CAE** | Air Traffic Services Instructor | Montreal | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Air-Traffic-Services-Instructor_121468) |
 | **Canadian Tire** | Manager, Enterprise Retail Capability | Toronto, ON | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Manager--Enterprise-Retail-Capability_JR163264) |
 | **Amazon Development Centre Canada ULC** | Technical Program Manager, Amazon Ful... | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486120/technical-program-manager-amazon-fulfillment-technologies-aft-quality) |
@@ -160,7 +162,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278060) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278062) |
 | **Faire** | IT Support Technician | Waterloo, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002) |
@@ -232,7 +233,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 167 current opportunities from 60 companies**
+**🎯 168 current opportunities from 60 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
