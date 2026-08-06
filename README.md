@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-160-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-120-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-156-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-118-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,7 +66,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Software Engineering SMTS | Vancouver | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR343396) |
 | **WSP** | Business Information Security Officer... | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92136) |
 | **Arlo** | Firmware Developer Co-op | Richmond, BC, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | **BMO** | Software Developer (New or Recent Gra... | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222) |
@@ -101,7 +100,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Pluggable-Optical-Modem-Test-Engineer---New-Grad_R031415-1) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Software-Development-Manager--Validation---Verification-_260004401-1) |
 | **WSP** | Co-op Student, Electrical Engineering | Thornhill, ON, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92153) |
-| **Thermo Fisher Scientific** | Validation Engineering Specialist I | Mississauga, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mississauga-Canada/Validation-Engineering-Specialist-I_R-01360486) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
 | **Arlo** | Test Engineer Co-op | Richmond, BC, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Test-Engineer-Co-op_JR100354) |
 | **IEM** | Electrical Designer – Switchgear Desi... | Surrey, British C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4287873009) |
@@ -136,7 +134,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **WSP** | Stagiaire en planification de la mobi... | Montreal, QC, Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92308) |
 | **WSP** | Technicien(ne) opération et traitemen... | Montreal, QC, Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92314) |
-| **Parsons** | Human Factors Specialist – Rail & Tra... | BC, Burnaby, R182... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---BC-Burnaby/Human-Factors-Specialist---Rail---Transit-Systems_R182265) |
 | **Canadian Tire** | AI Automation Student (4 months) - Fa... | Calgary, AB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947) |
 | **Canadian Tire** | Manager, Enterprise Retail Capability | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Manager--Enterprise-Retail-Capability_JR163264) |
 | **CAE** | Air Traffic Services Instructor | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Air-Traffic-Services-Instructor_121468) |
@@ -159,12 +156,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Caterpillar** | Technical Program Manager / Product O... | Tullamarine, Vict... | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Senior-Software-Architect_R0000381147) |
-| **Motorola Solutions** | Technical Program Manager | Vancouver, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Technical-Program-Manager_R67372) |
+| **Caterpillar** | Technical Program Manager / Product O... | Tullamarine, Vict... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Senior-Software-Architect_R0000381147) |
 | **Vertiv** | Field Service Representative - Therma... | Montreal, QC, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278564) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278060) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278062) |
 | **Faire** | IT Support Technician | Waterloo, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002) |
+| **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91819) |
 | **DRW** | Application Support Specialist (Data ... | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8028470) |
 
@@ -227,7 +224,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 160 current opportunities from 56 companies**
+**🎯 156 current opportunities from 54 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
