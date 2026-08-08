@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-157-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-115-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-154-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-111-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Salesforce** | Software Engineering SMTS | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 | **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
 | **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) |
-| **Salesforce** | Software Engineering SMTS | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 | **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
 | **Ciena** | Software Developer in Test Automation... | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-in-Test-Automation-Intern_R031467) |
 | **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
@@ -165,8 +165,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ciena** | Coherent Plug NPI Program Manager | Ottawa | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210) |
+| **Ciena** | Coherent Plug NPI Program Manager | Ottawa | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210) |
 | **Stripe** | Technical Program Manager, Extensibil... | Toronto, Remote Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8114397) |
+| **Manulife** | Manager - Automation, Treasury Operat... | Toronto, Ontario | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager---Automation--Treasury-Operations_JR26051703) |
 | **Vertiv** | Field Service Representative - Therma... | Montreal, QC, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278564) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278060) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278062) |
@@ -233,7 +234,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 157 current opportunities from 57 companies**
+**🎯 154 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
