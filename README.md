@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-159-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-117-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-152-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-110-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-58-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -122,7 +122,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
+| **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
 | **Instacart** | Media Analytics Manager, Measurement ... | Remote (ON, AB, BC, or... | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=7951046) |
 | **Cohere** | Machine Learning Intern/Co-op  (Winte... | Canada | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
@@ -147,8 +147,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Stagiaire en planification de la mobi... | Montreal, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92308) |
 | **WSP** | Technicien(ne) opération et traitemen... | Montreal, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92314) |
 | **Canadian Tire** | AI Automation Student (4 months) - Fa... | Calgary, AB | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947) |
-| **Morgan Stanley** | AI Patterns and Controls Monitoring P... | Montreal, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/AI-Patterns-and-Controls-Monitoring-Professional---NFR-Artificial-Intelligence-Governance--Hybrid-_PT-JR040879) |
 | **CAE** | Air Traffic Services Instructor | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Air-Traffic-Services-Instructor_121468) |
+| **Morgan Stanley** | AI Patterns and Controls Monitoring P... | Montreal, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/AI-Patterns-and-Controls-Monitoring-Professional---NFR-Artificial-Intelligence-Governance--Hybrid-_PT-JR040879) |
 | **Amazon Development Centre Canada ULC** | Technical Program Manager, Amazon Ful... | Toronto, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486120/technical-program-manager-amazon-fulfillment-technologies-aft-quality) |
 | **Cerebras Systems** | AI Inference Core - Junior SDET, Rele... | and Canada Offices | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/08ffd14b-cb60-4916-9946-735e49594308) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
@@ -167,7 +167,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Stripe** | Technical Program Manager, Extensibil... | Toronto, Remote Canada | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8114397) |
+| **Stripe** | Technical Program Manager, Extensibil... | Toronto, Remote Canada | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8114397) |
 | **Caterpillar** | Technical Program Manager / Product O... | Tullamarine, Victoria | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Senior-Software-Architect_R0000381147) |
 | **Vertiv** | Field Service Representative - Therma... | Montreal, QC, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278564) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278060) |
@@ -235,7 +235,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 159 current opportunities from 60 companies**
+**🎯 152 current opportunities from 58 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
