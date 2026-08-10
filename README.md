@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-114-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-77-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-55-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-117-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-80-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -224,7 +224,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 114 current opportunities from 55 companies**
+**🎯 117 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
