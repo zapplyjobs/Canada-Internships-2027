@@ -19,7 +19,7 @@
 
 ![Total Internships](https://img.shields.io/badge/Total_Internships-114-brightgreen?style=flat&logo=briefcase)
 ![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-77-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-51-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-52-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -67,9 +67,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Google** | Software Developer, Early Career, Campus | Canada | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
-| **Ciena** | Development Engine Infrastructure Dev... | Ottawa | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773) |
-| **Ciena** | Software Developer Intern - Fall 2026 | Ottawa | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
-| **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
+| **Ciena** | Development Engine Infrastructure Dev... | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773) |
+| **Ciena** | Software Developer Intern - Fall 2026 | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
+| **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
 | **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, British Col... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556956276) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8663419002) |
 | **Arlo** | Firmware Developer Co-op | Richmond, BC, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
@@ -134,7 +134,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Palo Alto Networks** | Domain Consultant - IAM/IGA Solutions | Toronto Canada | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Domain-Consultant---IAM-IGA-Solutions_JR-020557) |
+| **Palo Alto Networks** | Domain Consultant - IAM/IGA Solutions | Toronto Canada | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Domain-Consultant---IAM-IGA-Solutions_JR-020557) |
 | **Canadian Tire** | Manager, AI Governance Enablement | Toronto, ON | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Manager--AI-Governance-Enablement_JR163358) |
 | **League** | Product Manager (Platform & AI Agents) | Toronto, ON | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/leagueinc/jobs/6137849004) |
 | **Microsoft** | Gestionnaire du programme TI des cent... | Quebec City, Québec, C... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556953811) |
@@ -156,7 +156,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
+| **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
 | **Vertiv** | Field Service Representative - Power | Toronto, ON, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279043) |
 | **Vertiv** | Field Service Representative - Therma... | Halifax, NS, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279039) |
 | **Vertiv** | Field Service Representative - Therma... | Regina, SK, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279139) |
@@ -218,7 +218,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 114 current opportunities from 51 companies**
+**🎯 114 current opportunities from 52 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
