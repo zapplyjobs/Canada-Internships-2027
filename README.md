@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-138-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-137-brightgreen?style=flat&logo=briefcase)
 ![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-95-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-52-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -66,14 +66,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ciena** | Development Engine Infrastructure Dev... | Ottawa | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773) |
-| **Ciena** | Software Developer Intern - Fall 2026 | Ottawa | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
-| **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
+| **Ciena** | Development Engine Infrastructure Dev... | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine-Infrastructure-DevOps-Co-op--Fall-2026---4-12-months-_R030773) |
+| **Ciena** | Software Developer Intern - Fall 2026 | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
+| **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
 | **Google** | Software Developer, Early Career, Campus | Canada | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
+| **Salesforce** | Software Engineering SMTS | Toronto | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 | **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
 | **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) |
 | **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, British Col... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556956276) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8663419002) |
+| **Salesforce** | Software Engineering SMTS | Vancouver | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR343396) |
 | **Arlo** | Firmware Developer Co-op | Richmond, BC, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | **WSP** | Business Information Security Officer... | Montreal, QC, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92136) |
 | **DRW** | Software Developer Intern | Montreal | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
@@ -138,7 +140,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Palo Alto Networks** | Domain Consultant - IAM/IGA Solutions | Toronto Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Domain-Consultant---IAM-IGA-Solutions_JR-020557) |
+| **Palo Alto Networks** | Domain Consultant - IAM/IGA Solutions | Toronto Canada | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Domain-Consultant---IAM-IGA-Solutions_JR-020557) |
 | **Canadian Tire** | Manager, AI Governance Enablement | Toronto, ON | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Manager--AI-Governance-Enablement_JR163358) |
 | **League** | Product Manager (Platform & AI Agents) | Toronto, ON | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/leagueinc/jobs/6137849004) |
 | **Microsoft** | Gestionnaire du programme TI des cent... | Quebec City, Québec, C... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556953811) |
@@ -160,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Autodesk** | Technical Program Manager | Vancouver, BC, CAN | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Technical-Program-Manager_26WD99636-1) |
+| **Autodesk** | Technical Program Manager | Vancouver, BC, CAN | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Technical-Program-Manager_26WD99636-1) |
 | **Vertiv** | Field Service Representative - Power | Toronto, ON, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279043) |
 | **Vertiv** | Field Service Representative - Therma... | Halifax, NS, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279039) |
 | **Vertiv** | Field Service Representative - Therma... | Regina, SK, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279139) |
@@ -168,7 +170,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Manulife** | Manager - Automation, Treasury Operat... | Toronto, Ontario | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager---Automation--Treasury-Operations_JR26051703) |
 | **CIBC** | Application Development and Support E... | Toronto, ON | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Development-and-Support-ETL--Informatica--Databricks_2616208) |
 | **BMO** | Systems Support Specialist | Toronto, ON, CAN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Support-Specialist_R260022205) |
-| **Caterpillar** | Technical Program Manager / Product O... | Tullamarine, Victoria | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Senior-Software-Architect_R0000381147) |
 | **Motorola Solutions** | Technical Program Manager | Vancouver, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Technical-Program-Manager_R67372) |
 | **DRW** | Application Support Specialist (Data ... | Montreal | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8028470) |
 
@@ -226,7 +227,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 138 current opportunities from 54 companies**
+**🎯 137 current opportunities from 52 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
