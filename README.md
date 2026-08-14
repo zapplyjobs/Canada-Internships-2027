@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / On... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) |
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Halifax, Nova Scotia | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) |
-| **Google** | Software Developer, Early Career, Campus | Canada | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
+| **Google** | Software Developer, Early Career, Campus | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8663419002) |
 | **WSP** | Business Information Security Officer... | Montreal, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92136) |
 | **DRW** | Software Developer Intern | Montreal | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
+| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
 | **Vertiv** | Field Service Representative - Power | Toronto, ON, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279043) |
 | **Vertiv** | Field Service Representative - Therma... | Halifax, NS, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279039) |
 | **Vertiv** | Field Service Representative - Therma... | Regina, SK, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279139) |
