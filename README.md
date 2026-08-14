@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
+| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
 | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
 | **Instacart** | Media Analytics Manager, Measurement ... | Remote (ON, AB, BC, or... | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=7951046) |
@@ -121,8 +121,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
-| **Xsolla** | AI-First Engineering Intern | Montreal | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
+| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
 | **Microsoft** | Gestionnaire du programme TI des cent... | Quebec City, Québec, C... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556953811) |
 | **DRW** | AI/ML Research Intern | Montreal | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (Hybrid) | 6mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
+| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
 | **Vertiv** | Field Service Representative - Power | Toronto, ON, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279043) |
 | **Vertiv** | Field Service Representative - Therma... | Halifax, NS, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279039) |
 | **Vertiv** | Field Service Representative - Therma... | Regina, SK, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279139) |
