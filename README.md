@@ -170,7 +170,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
+| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
 | **Autodesk** | Technical Program Manager | Vancouver, BC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Technical-Program-Manager_26WD99636-1) |
 | **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
 | **Vertiv** | Field Service Representative - Power | Toronto, ON, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279043) |
