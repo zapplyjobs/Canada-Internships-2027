@@ -87,10 +87,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Information Security Specialist - Red... | Toronto Ontario | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Red-Team-Operator_R_1496821-1) |
 | **Canadian Tire** | Program Manager, Data and AI Security | Toronto ON | 2d | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Program-Manager--Data-Application-and-AI-Security_JR154070) |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en dé... | Montreal, QC, CAN | 3d | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
+| **BlackBerry** | QNX Embedded Development Manager (Ope... | Ottawa, Ontario | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1) |
 | **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/SRE-Associate--Hybrid-_PT-JR040929) |
 | **TD Bank** | Audit Manager I - Global Cybersecurit... | Toronto Ontario | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-I---Global-Cybersecurity--ATH-1092-_R_1500037) |
 | **CIBC** | Consultant, Site Reliability Engineer... | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Site-Reliability-Engineering-SRE-_2616652) |
-| **BlackBerry** | QNX Embedded Development Manager (Ope... | Ottawa, Ontario | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1) |
 | **General Motors** | Engineering Group Manager - Software ... | Markham Ontario Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Engineering-Group-Manager---Software-Engineering_JR-202615708) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Ottawa | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD) |
@@ -138,7 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
+| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/7269857e-997f-4431-b86a-4d32325ae8d6) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Toronto | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/61d2266a-c25d-4d80-b89d-a06c6c9e6668) |
 | **Ideogram** | Applied Machine Learning | Toronto | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ideogram/66610ff2-a888-44cf-b6cb-fd0116949697) |
@@ -165,8 +165,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
-| **Xsolla** | AI-First Engineering Intern | Montreal | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
+| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
 | **Lightspeed** | Gestionnaire du développement logiciel | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/78c6001c-706f-44c2-ab5f-9bffcfb99024) |
 | **Cohere** | Technical Program Manager, AI Deliver... | Ottawa | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda) |
 | **Cerebras Systems** | AI Inference Core - Junior SDET, Rele... | and Canada Offices | 11m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/08ffd14b-cb60-4916-9946-735e49594308) |
