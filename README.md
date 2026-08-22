@@ -165,8 +165,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
-| **Xsolla** | AI-First Engineering Intern | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
+| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
 | **Lightspeed** | Gestionnaire du développement logiciel | Montreal | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/78c6001c-706f-44c2-ab5f-9bffcfb99024) |
 | **Cohere** | Technical Program Manager, AI Deliver... | Ottawa | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda) |
 | **Cerebras Systems** | AI Inference Core - Junior SDET, Rele... | and Canada Offices | 12m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/08ffd14b-cb60-4916-9946-735e49594308) |
