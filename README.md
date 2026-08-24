@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-246-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-197-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-245-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-196-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
@@ -76,8 +76,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cerebras Systems** | Security SWE | and Canada Offices | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/758805c1-fcbf-45c5-93c8-4e92155b570b) |
 | **Cerebras Systems** | Security & IT General Opportunities | and Canada Offices | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/4a9ff42b-c834-4445-ba47-2f90d74d83a5) |
 | **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
-| **Google** | Software Developer Intern, PhD, Summe... | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| **Google** | Software Developer, Early Career, Campus | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
+| **Google** | Software Developer Intern, PhD, Summe... | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
+| **Google** | Software Developer, Early Career, Campus | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
 | **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336) |
 | **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
 | **Parsons** | OT Cybersecurity Consultant | BC, Burnaby, R184413, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---BC-Burnaby/OT-Cybersecurity-Consultant_R184413) |
@@ -135,12 +135,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **RTX** | Stage - Hiver 2027 - Science des donn... | Qc, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) |
 | **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Montreal | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/7269857e-997f-4431-b86a-4d32325ae8d6) |
 | **Lightspeed** | Manager, Data Science & Machine Learning | Toronto | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/61d2266a-c25d-4d80-b89d-a06c6c9e6668) |
 | **Ideogram** | Applied Machine Learning | Toronto | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ideogram/66610ff2-a888-44cf-b6cb-fd0116949697) |
 | **Cohere** | Machine Learning Intern/Co-op  (Winte... | Canada | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| **RTX** | Stage - Hiver 2027 - Science des donn... | Qc, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) |
 | **CIBC** | Consultant, Business Intelligence and... | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Business-Intelligence-and-Data-Analytics_2616196) |
 | **CIBC** | Consultant, Reporting and Analytics | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Data-Visualization---Insights_2612847) |
 | **Dropbox** | Data Analytics Partner, People Analytics | Canada: Select locations | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.dropbox.com/listing/8126575?gh_jid=8126575) |
@@ -167,10 +167,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lightspeed** | Gestionnaire du développement logiciel | Montreal | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/78c6001c-706f-44c2-ab5f-9bffcfb99024) |
 | **Cohere** | Technical Program Manager, AI Deliver... | Ottawa | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda) |
 | **Cerebras Systems** | AI Inference Core - Junior SDET, Rele... | and Canada Offices | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/08ffd14b-cb60-4916-9946-735e49594308) |
-| **BMO** | AI Transformation Analyst, Commercial... | Halifax, NS, CAN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1) |
 | **RTX** | Stage – Hiver 2027 – Soutien numériqu... | Qc, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
-| **CAE** | Bombardier Maintenance Instructor ($5... | Montreal | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Bombardier-Maintenance-Instructor_122644) |
+| **BMO** | AI Transformation Analyst, Commercial... | Halifax, NS, CAN | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1) |
 | **RTX** | Internship - Winter 2027 - Model-base... | On, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Model-based-Definition--MBD--Computer-aided-Design--CAD--Digital-Technologies--MISSISSAUGA-_01863899) |
+| **CAE** | Bombardier Maintenance Instructor ($5... | Montreal | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Bombardier-Maintenance-Instructor_122644) |
 | **Manulife** | Manager, AI Governance Project Delivery | Toronto, Ontario | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager--AI-Governance-Program-Delivery_JR26080550-1) |
 | **Autodesk** | Data Science, AI Compute Strategy, Ca... | Toronto ON CAN | 5d | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Business-Strategist--AI-Foundation-Models_26WD97210-1) |
 | **RTX** | Spécialiste, essais en vol et instrum... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Spcialiste--essais-en-vol-et-instrumentation---Flight-Test---Instrumentation-Specialist_01859714) |
@@ -192,9 +192,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Fiserv** | Bilingual French Client Support -Coll... | Skymark, Canada | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Collections---Associate-II_R-10401543) |
-| **ABB** | Space & Defense Systems (SDS) Manager... | Quebec, Quebec, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Quebec-Quebec-Canada/Space---Defense-Systems--SDS--Manager---Business-Execution---Engineering-Operations_JR00041656-1) |
+| **Fiserv** | Bilingual French Client Support -Coll... | Skymark, Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Collections---Associate-II_R-10401543) |
 | **CAE** | Manager - operations support | Montreal | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Manager---operations-support_122545) |
+| **ABB** | Space & Defense Systems (SDS) Manager... | Quebec, Quebec, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Quebec-Quebec-Canada/Space---Defense-Systems--SDS--Manager---Business-Execution---Engineering-Operations_JR00041656-1) |
 | **Danaher** | Field Service Representative (Chicout... | Quebec City, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Quebec-City-Canada/Field-Service-Representative_R1308711) |
 | **Danaher** | Field Service Representative - Remote | Mississauga Ontario Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Mississauga-Ontario-Canada/Field-Service-Representative---Remote_R1315143) |
 | **BMO** | Production Operations STO (CorpFinFCU... | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Production-Operations-STO--CorpFinFCU---Engineering-_R260023568) |
@@ -265,7 +265,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 246 current opportunities from 81 companies**
+**🎯 245 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
