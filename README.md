@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-276-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-214-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-274-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-213-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-87-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
@@ -67,20 +67,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CAE** | Cybersecurity Governance, Risk and Co... | Montreal | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Cybersecurity-Governance--Risk-and-Compliance-Specialist---Risk-Management_122860) |
+| **RTX** | Stage – Hiver 2027 - Developpeur Solu... | Qc, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472) |
 | **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
 | **Wealthsimple** | Frontier AI Security Threat Hunter | Remote (Canada) | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/fd3bea24-2cf5-4bcc-805b-8ef6e1c0869d) |
 | **MaintainX** | DevOps Specialist | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/a96f58b5-888f-4406-8678-31f67c99cd86) |
 | **Cohere** | Software Engineer Intern (Winter 2027) | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
 | **Cohere** | Data Annotation Specialist, Software ... | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e) |
+| **Cerebras Systems** | Security SWE | United States and Canada | 11m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/758805c1-fcbf-45c5-93c8-4e92155b570b) |
 | **Cerebras Systems** | Security & IT General Opportunities | United States and Canada | 11m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/4a9ff42b-c834-4445-ba47-2f90d74d83a5) |
 | **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto, CAN | 11m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
-| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto, CAN | 11m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
 | **Google** | Software Developer Intern, PhD, Summe... | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | **Google** | Software Developer, Early Career, Campus | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
-| **InterDigital** | Intern, Cybersecurity (Montreal) | Montreal, CAD | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Cybersecurity--Montreal-_REQ26-1116) |
+| **CAE** | Cybersecurity Governance, Risk and Co... | Montreal | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Cybersecurity-Governance--Risk-and-Compliance-Specialist---Risk-Management_122860) |
+| **InterDigital** | Intern, Cybersecurity (Montreal) | Montreal, CAD | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Cybersecurity--Montreal-_REQ26-1116) |
 | **BMO** | BMO Capital Markets Winter 2027, Full... | Toronto, ON, CAN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) |
-| **RTX** | Stage – Hiver 2027 - Developpeur Solu... | Qc, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472) |
 | **HPE** | Junior UI developer / Développeur UI ... | St. Laurent, Quebec, C... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468) |
 | **HPE (University)** | Junior UI developer / Développeur UI ... | St. Laurent, Quebec, C... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468-2) |
 | **Salesforce** | Software Engineering SMTS | Vancouver | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR343396) |
@@ -99,12 +99,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Citi** | Full Stack Application Group Manager | Mississauga Ontario Ca... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Full-Stack-Application-Group-Manager_26987444) |
 | **Ciena** | Embedded Software Developer (New Grad) | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481) |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en dé... | Montreal, QC, CAN | 1w | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
+| **BlackBerry** | QNX Embedded Development Manager (Ope... | Ottawa, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1) |
 | **General Motors** | Engineering Group Manager - Software ... | Markham Ontario Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Engineering-Group-Manager---Software-Engineering_JR-202615708) |
 | **CIBC** | Consultant, Site Reliability Engineer... | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Site-Reliability-Engineering-SRE-_2616652) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD) |
 | **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/SRE-Associate--Hybrid-_PT-JR040929) |
-| **BlackBerry** | QNX Embedded Development Manager (Ope... | Ottawa, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Technical-Open-Source-Development-Manager_20260207-1) |
 | **Allstate** | Information Security Expert | Canadian Head | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office-It/Information-Security-Expert_R31320) |
 | **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
 | **BMO** | Audit Manager, Cybersecurity | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Audit-Manager---AI---Cloud_R260023114) |
@@ -171,13 +171,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **RTX** | Internship - Winter 2027 - Sustainabl... | On, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Sustainable-Propulsion-Performance-Analysis-and-Methods-Development_01868800) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
 | **Xsolla** | AI-First Engineering Intern | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
 | **Lightspeed** | Gestionnaire du développement logiciel | Montreal | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/78c6001c-706f-44c2-ab5f-9bffcfb99024) |
 | **Cohere** | Technical Program Manager, AI Deliver... | Ottawa | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda) |
 | **TD Bank** | AI2 Data Science Associate | Toronto, Ontario | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate_R_1506342) |
 | **Palo Alto Networks** | Domain Consultant 2 | Toronto, Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Domain-Consultant-2_JR-021703) |
-| **RTX** | Internship - Winter 2027 - Sustainabl... | On, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Sustainable-Propulsion-Performance-Analysis-and-Methods-Development_01868800) |
 | **Autodesk** | Data Science, AI Compute Strategy, Ca... | Toronto ON CAN | 1d | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Business-Strategist--AI-Foundation-Models_26WD97210-1) |
 | **Autodesk** | PhD Intern - AI Researcher for CAD (B... | Toronto, ON, CAN | 1d | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254-1) |
 | **RTX** | Stage - Hiver 2027 - Analyste en inte... | Qc, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337) |
@@ -186,7 +186,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | Bombardier Maintenance Instructor ($5... | Montreal | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Bombardier-Maintenance-Instructor_122644) |
 | **Manulife** | Manager, AI Governance Project Delivery | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager--AI-Governance-Program-Delivery_JR26080550-1) |
 | **FLIR Systems** | AI & Automation Engineering Co-op | Waterloo, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/AI---Automation-Engineering-Co-op_REQ36054) |
-| **BMO** | Manager, Campaign Measurement | Toronto, ON, CAN | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Campaign-Measurement_R260024341) |
 | **Morgan Stanley** | AI Development Solution Engineering S... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/AI-Development-Solution-Engineering-Specialist--Hybrid-_PT-JR041698) |
 | **Manulife** | AI Product Manager | Montreal, Quebec | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/AI-Product-Manager_JR26071948) |
 | **TD Bank** | Salesforce Campaign Manager | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Salesforce-Campaign-Manager_R_1503061) |
@@ -203,11 +202,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **RTX** | Stage - Hiver 2027- Support à l’ingén... | Qc, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Support--l-ingnierie-du-dveloppement---Internship---Winter-2027---Development-Engineering-Internship_01867252) |
+| **RTX** | Stage - Hiver 2027 - Ingénierie du Dé... | Qc, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-du-Dveloppement---Support-a-l-assemblage-et-au-processus-d-instrumentation---nouveau-programme-moteur---Internship---Winter-2027---Development-Engineering---Support-for-assembly-and-instrumentation-process---new-engine-program_01860683) |
+| **RTX** | Internship - Winter 2027 - Developmen... | On, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Development-Engineering-Support-Analyst_01859772) |
 | **BMO** | Production Operations STO (CorpFinFCU... | Toronto, ON, CAN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Production-Operations-STO--CorpFinFCU---Engineering-_R260023568) |
 | **ABB** | Space & Defense Systems (SDS) Manager... | Quebec, Quebec, Canada | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Quebec-Quebec-Canada/Space---Defense-Systems--SDS--Manager---Business-Execution---Engineering-Operations_JR00041656-1) |
-| **RTX** | Internship - Winter 2027 - Developmen... | On, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Development-Engineering-Support-Analyst_01859772) |
-| **RTX** | Stage - Hiver 2027- Support à l’ingén... | Qc, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Support--l-ingnierie-du-dveloppement---Internship---Winter-2027---Development-Engineering-Internship_01867252) |
-| **RTX** | Stage - Hiver 2027 - Ingénierie du Dé... | Qc, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-du-Dveloppement---Support-a-l-assemblage-et-au-processus-d-instrumentation---nouveau-programme-moteur---Internship---Winter-2027---Development-Engineering---Support-for-assembly-and-instrumentation-process---new-engine-program_01860683) |
 | **Citi** | Applications Support Group Manager | Mississauga Ontario Ca... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Support-Group-Manager_26989693-1) |
 | **CAE** | Program Manager | Montreal | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Program-Manager_122874) |
 | **Vertiv** | Field Service Representative - Thermal | Calgary, AB, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280235) |
@@ -297,7 +296,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 276 current opportunities from 87 companies**
+**🎯 274 current opportunities from 87 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
