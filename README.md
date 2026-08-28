@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-254-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-253-brightgreen?style=flat&logo=briefcase)
 ![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-196-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-81-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
@@ -67,16 +67,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
 | **Wealthsimple** | Frontier AI Security Threat Hunter | Remote (Canada) | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/fd3bea24-2cf5-4bcc-805b-8ef6e1c0869d) |
+| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
 | **MaintainX** | DevOps Specialist | Montreal | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/a96f58b5-888f-4406-8678-31f67c99cd86) |
 | **Cohere** | Software Engineer Intern (Winter 2027) | Canada | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
 | **Cohere** | Data Annotation Specialist, Software ... | Canada | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e) |
-| **Cerebras Systems** | Security SWE | United States and Canada | 12m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/758805c1-fcbf-45c5-93c8-4e92155b570b) |
 | **Cerebras Systems** | Security & IT General Opportunities | United States and Canada | 12m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/4a9ff42b-c834-4445-ba47-2f90d74d83a5) |
 | **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto, CAN | 12m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
-| **Google** | Software Developer Intern, PhD, Summe... | Canada | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| **Google** | Software Developer, Early Career, Campus | Canada | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
+| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto, CAN | 12m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
+| **Google** | Software Developer, Early Career, Campus | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120686451305128646) |
+| **Google** | Software Developer Intern, PhD, Summe... | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | **RTX** | Stage – Hiver 2027 - Developpeur Solu... | Qc, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472) |
 | **Salesforce** | Software Engineering SMTS | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 | **BMO** | BMO Capital Markets Winter 2027, Full... | Toronto, ON, CAN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) |
@@ -186,7 +186,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Stage – Hiver 2027 – Soutien numériqu... | Qc, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
 | **BMO** | AI Transformation Analyst, Commercial... | Halifax, NS, CAN | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1) |
 | **CAE** | Bombardier Maintenance Instructor ($5... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Bombardier-Maintenance-Instructor_122644) |
-| **Morgan Stanley** | AI Development Solution Engineering S... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/AI-Development-Solution-Engineering-Specialist--Hybrid-_PT-JR041698) |
 | **DRW** | AI/ML Research Intern | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | **xAI** | AI Tutor - French | Canada | 4mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5090202007) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (Hybrid) | 6mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
@@ -293,7 +292,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 254 current opportunities from 81 companies**
+**🎯 253 current opportunities from 81 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
