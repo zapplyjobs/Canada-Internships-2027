@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-146-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-121-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-148-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-123-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-48-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
@@ -67,13 +67,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
-| **Cohere** | Software Engineer Intern (Winter 2027) | Canada | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
-| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto, CAN | 15m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
-| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto, CAN | 15m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
-| **Google** | Software Developer Intern, PhD, Summe... | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| **Google** | Software Developer Intern, MS, Summer... | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
-| **Google** | Software Developer Intern, BS, Summer... | Canada | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
+| **Cohere** | Software Engineer Intern (Winter 2027) | Canada | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
+| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto, CAN | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
+| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto, CAN | 14m | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
+| **Google** | Software Developer Intern, PhD, Summe... | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
+| **Google** | Software Developer Intern, MS, Summer... | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
+| **Google** | Software Developer Intern, BS, Summer... | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
+| **Capital One** | Associate, Software Engineer, New Gra... | Toronto, ON | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320) |
 | **Stripe** | Software Engineer, Intern (Summer or ... | Toronto | 19h | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8130805) |
 | **Stripe** | Software Engineer, New Grad | Toronto | 19h | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8157838) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON, Canada | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8765751002) |
@@ -91,8 +91,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HPE (University)** | Junior UI developer / Développeur UI ... | St. Laurent, Quebec, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468-2) |
 | **HPE** | Junior UI developer / Développeur UI ... | St. Laurent, Quebec, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Junior-UI-developer---Dveloppeur-UI-junior_1208468) |
 | **Ciena** | Embedded Software Engineer - New Grad | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571) |
-| **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD) |
 | **Capital One** | Intern, Full Stack Software Engineer ... | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
+| **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD) |
 | **Ciena** | Embedded Software Developer (New Grad) | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Ottawa | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summe... | Toronto | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/May-2027---Cloud--Data-and-AI---Summer-Intern---Toronto_745713WD) |
@@ -129,7 +129,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
-| **Cohere** | Machine Learning Intern/Co-op  (Winte... | Canada | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| **Cohere** | Machine Learning Intern/Co-op  (Winte... | Canada | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | **Canadian Tire** | Credit Risk Data Scientist Student - ... | Oakville ON | 1w | 🏛 LMIA | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Credit-Risk-Data-Scientist-Student----4-Months----Winter-2027_JR164831) |
 | **RTX** | Stage - Hiver 2027 - Science des donn... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) |
 | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_123305) |
+| **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_123305) |
 | **RTX** | Stage -  Hiver 2027- Soutien aux equi... | Qc, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027--Soutien-aux-equipes-HEP--hybrid-electric-propulsion--et-NSE--New-Small-Engine--a-la-gestion-de-programme---Internship---Winter-2027---HEP--Hybrid-Electric-propulsion----NSE--New-Small-Engine--support-to-Program-Management-team_01865614) |
 | **RTX** | Internship - Winter 2027 - Developmen... | On, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Development-Engineering-Support-Analyst_01859772) |
 | **RTX** | Stage - Hiver 2027- Support à l’ingén... | Qc, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Support--l-ingnierie-du-dveloppement---Internship---Winter-2027---Development-Engineering-Internship_01867252) |
@@ -246,7 +246,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 146 current opportunities from 48 companies**
+**🎯 148 current opportunities from 48 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
