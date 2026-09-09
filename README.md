@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-234-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-179-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-61-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-230-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-175-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-60-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Internships-2027?style=flat&logo=calendar)
 
 </div>
@@ -69,20 +69,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
-| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) |
-| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
-| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
-| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0) |
-| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
-| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
-| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
-| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | Vancouver, BC | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b) |
+| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
+| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) |
+| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
+| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
+| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0) |
+| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
+| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
+| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
+| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
+| **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | Vancouver, BC | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b) |
 | **BMO** | Cloud DBA | Toronto, ON | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Cloud-DBA_R260024254) |
+| **TD Bank** | Cyber Security Co-op / Intern​ (Winter 2027) | Toronto Ontario +1 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810) |
+| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | 161 Bay Street Corporate | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) |
 | **TD Bank** | Software Engineer Co-op / Intern (Winter 2027) | Toronto Ontario +2 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790) |
-| **TD Bank** | Mobile Software Engineer Co-op / Intern​ (Winter 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Co-op---Intern---Winter-2027-_R_1509825) |
-| **TD Bank** | Cloud / DevOps Co-op / Intern​ (Winter 2027) | Toronto Ontario +1 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822) |
 | **Capital One** | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
 | **Capital One** | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
 | **Capital One** | Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
@@ -100,13 +100,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Software Engineer, Intern (Summer or Winter) | Toronto | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8130805) |
 | **Stripe** | Software Engineer, New Grad | Toronto | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8157838) |
 | **IXL Learning** | Software Developer, New Grad | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8765751002) |
-| **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | Markham Ontario Canada +1 more | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
 | **Manulife** | Summer Intern 2027 - Software Engineering (8 Months) | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685) |
 | **Manulife** | Summer Intern 2027 - Software Engineering | Waterloo | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686) |
 | **Manulife** | Summer Intern 2027 - Software Engineering | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) |
-| **Autodesk** | Intern, AI Developer/ Stagiaire en développement IA | Montreal, QC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
-| **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | Montreal, QC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
-| **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP | Montreal, QC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
+| **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | Markham Ontario Canada +1 more | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
 | **RTX** | Stage – Hiver 2027 - Developpeur Solutions d'Automatisation / Internship - Winter 2027 -... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summer Intern - Montreal | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD) |
 | **PricewaterhouseCoopers** | May 2027 - Cloud, Data and AI - Summer Intern - Ottawa | Ottawa | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) |
@@ -147,10 +144,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
-| **Ideogram** | Applied Machine Learning | Toronto | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ideogram/66610ff2-a888-44cf-b6cb-fd0116949697) |
-| **Cohere** | Machine Learning Intern/Co-op  (Winter 2027) | Remote | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) |
+| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
+| **Ideogram** | Applied Machine Learning | Toronto | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ideogram/66610ff2-a888-44cf-b6cb-fd0116949697) |
+| **Cohere** | Machine Learning Intern/Co-op  (Winter 2027) | Remote | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1) |
 | **TD Bank** | Data Analyst Co-op / Intern​ (Winter 2027) | Toronto Ontario +1 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804) |
 | **TD Bank** | AI2 Applied Machine Learning Scientist Co-op (WINTER 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1) |
 | **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711) |
@@ -178,8 +175,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Xsolla** | AI-First Engineering Intern | Montreal | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
-| **ShyftLabs** | AI Engineer Intern | Toronto | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
+| **ShyftLabs** | AI Engineer Intern | Toronto | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
 | **TD Bank** | AI2 Data Science Co-op (WINTER 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702) |
 | **TD Bank** | AI2 Business Intelligence Co-op/Intern (WINTER 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Co-op-Intern--WINTER-2027-_R_1506122) |
 | **BMO** | AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-2) |
@@ -286,7 +283,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 234 current opportunities from 61 companies**
+**🎯 230 current opportunities from 60 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
