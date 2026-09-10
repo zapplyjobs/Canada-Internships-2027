@@ -69,12 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) |
 | **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e) |
-| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0) |
-| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
+| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) |
 | **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
 | **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
+| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0) |
+| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
 | **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
 | **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
@@ -188,8 +188,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
-| **Xsolla** | AI-First Engineering Intern | Montreal | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
+| **ShyftLabs** | AI Engineer Intern | Toronto | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) |
 | **TD Bank** | AL/ML Engineer I | Toronto | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AL-ML-Engineer-I_R_1509055) |
 | **Intel** | AI and Compiler Engineering Graduate Intern | Virtual Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
 | **TD Bank** | AI2 Data Science Co-op (WINTER 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op_R_1506702) |
