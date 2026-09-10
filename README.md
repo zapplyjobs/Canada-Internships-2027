@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
-| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
+| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
+| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) |
+| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123510626377966278) |
 | **TD Bank** | Cyber Security Intern/Co-op (Winter 2027) | Toronto Ontario +1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810) |
 | **TD Bank** | Cloud/DevOps Intern/Co-op​ (Winter 2027) | Toronto Ontario +1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822) |
 | **TD Bank** | Software Engineer Intern/Co-op (Winter 2027) | Toronto Ontario +2 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790) |
@@ -132,7 +132,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Rocket Lab** | Electrical Engineering Intern Summer 2027 | Toronto | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003) |
-| **Rocket Lab** | Electrical Engineering Intern Spring 2027 | Toronto | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7990045003) |
+| **Rocket Lab** | Electrical Engineering Intern Spring 2027 | Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7990045003) |
 | **Kent Building Supplies** | Junior Electrical Engineer/Technologist (Co-op) | Ottawa, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5003/job/12040) |
 | **Kent Building Supplies** | Junior Electrical Engineer/Technologist (Co-op) | Halifax, NS | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5003/job/12043) |
 | **Kent Building Supplies** | Jr. Naval Architect/Mechanical/Electrical Engineer (co-op) | St. John's, NL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5003/job/12053) |
