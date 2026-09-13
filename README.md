@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-b5242472-5679-4084-af77-238b6335b792?s=gh-canada-internships-2027) |
 | **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-2bc7327b-1c06-418a-beeb-bec1dd70480e?s=gh-canada-internships-2027) |
+| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-b5242472-5679-4084-af77-238b6335b792?s=gh-canada-internships-2027) |
 | **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-9e1af45a-d1a6-4173-bf0f-8af42fa42bf0?s=gh-canada-internships-2027) |
 | **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-8c035d3d-081d-4c8a-914a-72f4efaad254?s=gh-canada-internships-2027) |
 | **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 5m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac?s=gh-canada-internships-2027) |
