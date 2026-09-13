@@ -16,9 +16,9 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-224-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
-  <img src="https://img.shields.io/badge/Software%20Engineering-72-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/Companies-61-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Total%20Internships-219-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Software%20Engineering-69-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Companies-62-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,15 +65,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-b5242472-5679-4084-af77-238b6335b792?s=gh-canada-internships-2027) |
-| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-2bc7327b-1c06-418a-beeb-bec1dd70480e?s=gh-canada-internships-2027) |
-| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-9e1af45a-d1a6-4173-bf0f-8af42fa42bf0?s=gh-canada-internships-2027) |
-| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-8c035d3d-081d-4c8a-914a-72f4efaad254?s=gh-canada-internships-2027) |
-| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac?s=gh-canada-internships-2027) |
-| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-40e0d3ee-8f0a-4b19-9bf9-79410b1c7735?s=gh-canada-internships-2027) |
-| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-112518690523488966?s=gh-canada-internships-2027) |
-| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-138960139137753798?s=gh-canada-internships-2027) |
-| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-123510626377966278?s=gh-canada-internships-2027) |
+| **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-2bc7327b-1c06-418a-beeb-bec1dd70480e?s=gh-canada-internships-2027) |
+| **Zip** | Software Engineer, New Grad (2027 Start) | Toronto | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-b5242472-5679-4084-af77-238b6335b792?s=gh-canada-internships-2027) |
+| **Cerebras Systems** | Software Engineer - New Grad 2026 | Toronto | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac?s=gh-canada-internships-2027) |
+| **Cerebras Systems** | DevOps Engineer - New Grad 2026 | Toronto | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-40e0d3ee-8f0a-4b19-9bf9-79410b1c7735?s=gh-canada-internships-2027) |
+| **Cohere** | Solutions Architect - Defence and National Security | Ottawa | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-9e1af45a-d1a6-4173-bf0f-8af42fa42bf0?s=gh-canada-internships-2027) |
+| **Cohere** | Software Engineer Intern (Winter 2027) | Remote | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-8c035d3d-081d-4c8a-914a-72f4efaad254?s=gh-canada-internships-2027) |
+| **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-112518690523488966?s=gh-canada-internships-2027) |
+| **Google** | Software Developer Intern, MS, Summer 2027 | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-138960139137753798?s=gh-canada-internships-2027) |
+| **Google** | Software Developer Intern, BS, Summer 2027 | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-123510626377966278?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications | On, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874412?s=gh-canada-internships-2027) |
 | **Citi** | Senior UI / Angular Software Engineer - Assistant Vice President | Mississauga Ontario Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26991913?s=gh-canada-internships-2027) |
 | **Affirm** | Software Engineer I, Frontend (Upfunnel) | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-7985907003?s=gh-canada-internships-2027) |
@@ -108,9 +108,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Manulife** | Summer Intern 2027 - Software Engineering (8 Months) | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081685?s=gh-canada-internships-2027) |
 | **Manulife** | Summer Intern 2027 - Software Engineering | Waterloo | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081686?s=gh-canada-internships-2027) |
 | **Manulife** | Summer Intern 2027 - Software Engineering | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081684?s=gh-canada-internships-2027) |
+| **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer | Montreal, QC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100400?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en développement IA | Montreal, QC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100523?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | Montreal, QC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100398?s=gh-canada-internships-2027) |
-| **Autodesk** | Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP | Montreal, QC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100406?s=gh-canada-internships-2027) |
 | **Thales** | CO-OP Systems Engineer- Vancouver shipyard | British Columbia Remote | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336218?s=gh-canada-internships-2027) |
 | **DRW** | Software Developer Intern | Montreal | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991196?s=gh-canada-internships-2027) |
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, ON | 3mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4687337006?s=gh-canada-internships-2027) |
@@ -148,15 +148,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-waabi-62700386-b9db-4c78-aec3-5ef59cbe841e?s=gh-canada-internships-2027) |
-| **Ideogram** | Applied Machine Learning | Toronto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-ideogram-66610ff2-a888-44cf-b6cb-fd0116949697?s=gh-canada-internships-2027) |
-| **Cohere** | Machine Learning Intern/Co-op  (Winter 2027) | Remote | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-36d1f52f-8270-4652-adf5-5303a0ff341b?s=gh-canada-internships-2027) |
+| **Waabi** | 2026 Intern, PhD Research Scientist | Toronto, ON | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-waabi-62700386-b9db-4c78-aec3-5ef59cbe841e?s=gh-canada-internships-2027) |
+| **Ideogram** | Applied Machine Learning | Toronto | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-ideogram-66610ff2-a888-44cf-b6cb-fd0116949697?s=gh-canada-internships-2027) |
+| **Cohere** | Machine Learning Intern/Co-op  (Winter 2027) | Remote | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-36d1f52f-8270-4652-adf5-5303a0ff341b?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 -  Analyste d’affaires et de Données / Internship - Winter 2027 -  Business &... | Qc, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01863946?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months) | Markham | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096484?s=gh-canada-internships-2027) |
 | **Capital One** | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999616?s=gh-canada-internships-2027) |
 | **Qualcomm** | Machine Learning Engineer, AI Processors (New Grad to Engineer Level) | Markham | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096480?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Data Analytics Engineering - Winter 2027 | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999617?s=gh-canada-internships-2027) |
-| **TD Bank** | Data Analyst Intern/Co-op​ (Winter 2027) | Toronto Ontario +1 more | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509804?s=gh-canada-internships-2027) |
 | **WSP** | Junior Geoscientist / Geochemist / Data Scientist | Vancouver, BC | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-94867?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Data Scientist - Winter 2027 | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999619?s=gh-canada-internships-2027) |
 | **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506711?s=gh-canada-internships-2027) |
@@ -167,6 +166,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RTX** | Stage - Hiver 2027 -  Analyse avancée projet d'évolution de l'IA  / Internship - Winter 2027 -... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01869327?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Data Analyst Student, Corporate HR - Winter 2027 | Saint John, NB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-11922?s=gh-canada-internships-2027) |
 | **Teledyne** | LiDAR Data Analyst (Co-op) | Canada - Concord, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36378?s=gh-canada-internships-2027) |
+| **TD Bank** | Actuarial Analyst I | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1508391?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Finance Data Analyst Student - Winter 2027 | Saint John, NB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-11918?s=gh-canada-internships-2027) |
 | **Epic Games** | Machine Learning Intern | Montreal, QC | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6138140004?s=gh-canada-internships-2027) |
 | **Cresta** | Machine Learning Engineering Intern | Toronto | 24mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123863008?s=gh-canada-internships-2027) |
@@ -181,9 +181,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
-| **Xsolla** | AI-First Engineering Intern | Montreal | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-xsolla-5ec8e8f7-ed75-4697-a1c0-28a026f2e571?s=gh-canada-internships-2027) |
-| **Qualcomm** | FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months) | Markham | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096485?s=gh-canada-internships-2027) |
+| **ShyftLabs** | AI Engineer Intern | Toronto | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
+| **Xsolla** | AI-First Engineering Intern | Montreal | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-xsolla-5ec8e8f7-ed75-4697-a1c0-28a026f2e571?s=gh-canada-internships-2027) |
 | **Amazon Development Centre Canada ULC - K03** | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-3bf6731a-c458-4019-9705-b786a6cc8748?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Maintenance Engineering Student- Winter 2027 | Saint John, NB | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12108?s=gh-canada-internships-2027) |
 | **TD Bank** | AI/ML Engineer I | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509055?s=gh-canada-internships-2027) |
@@ -294,7 +293,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 224 current opportunities from 61 companies**
+**🎯 219 current opportunities from 62 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
