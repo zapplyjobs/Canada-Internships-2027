@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-233-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-232-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-71-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-64-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -182,8 +182,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ShyftLabs** | AI Engineer Intern | Toronto | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
 | **Xsolla** | AI-First Engineering Intern | Montreal | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-xsolla-5ec8e8f7-ed75-4697-a1c0-28a026f2e571?s=gh-canada-internships-2027) |
+| **ShyftLabs** | AI Engineer Intern | Toronto | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months) | Markham | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096485?s=gh-canada-internships-2027) |
 | **TD Bank** | AI/ML Engineer I | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509055?s=gh-canada-internships-2027) |
 | **Amazon Development Centre Canada ULC - K03** | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-3bf6731a-c458-4019-9705-b786a6cc8748?s=gh-canada-internships-2027) |
@@ -214,8 +214,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **TD Bank** | Data Engineer I - PROD Support | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507969?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Development Engineering Support Analyst | On, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01859772?s=gh-canada-internships-2027) |
-| **RTX** | Stage -  Hiver 2027- Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865614?s=gh-canada-internships-2027) |
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
+| **RTX** | Stage -  Hiver 2027- Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865614?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027- Support à l’ingénierie du développement / Internship - Winter 2027 -... | Qc, CA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867252?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -294,7 +294,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 233 current opportunities from 64 companies**
+**🎯 232 current opportunities from 64 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
