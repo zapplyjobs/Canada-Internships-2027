@@ -67,9 +67,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **RTX** | Junior Software Engineer | On, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873778?s=gh-canada-internships-2027) |
 | **Cerebras Systems** | DevOps Engineer Intern - PEY | Toronto | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cerebras-c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6?s=gh-canada-internships-2027) |
-| **Robinhood** | Software Developer Intern, Web (Summer 2027) | Toronto | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8199744?s=gh-canada-internships-2027) |
-| **Robinhood** | Software Developer Intern, Backend (Summer 2027) | Toronto | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8142930?s=gh-canada-internships-2027) |
-| **Robinhood** | Software Developer Intern/Co-op, Backend (Winter 2027) | Toronto | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8194428?s=gh-canada-internships-2027) |
+| **Robinhood** | Software Developer Intern, Web (Summer 2027) | Toronto | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8199744?s=gh-canada-internships-2027) |
+| **Robinhood** | Software Developer Intern, Backend (Summer 2027) | Toronto | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8142930?s=gh-canada-internships-2027) |
+| **Robinhood** | Software Developer Intern/Co-op, Backend (Winter 2027) | Toronto | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8194428?s=gh-canada-internships-2027) |
 | **Google** | Software Developer Intern, MS, Summer 2027 | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-138960139137753798?s=gh-canada-internships-2027) |
 | **Google** | Software Developer Intern, BS, Summer 2027 | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-123510626377966278?s=gh-canada-internships-2027) |
 | **TD Bank** | Software Engineer I (Enterprise Marketing Technology) | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1508276?s=gh-canada-internships-2027) |
@@ -201,7 +201,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
+| **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Gestion des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027 | Qc, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873718?s=gh-canada-internships-2027) |
 | **TD Bank** | Data Engineer I - PROD Support | Toronto | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507969?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Development Engineering Support Analyst | On, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01859772?s=gh-canada-internships-2027) |
