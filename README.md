@@ -16,9 +16,9 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-226-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-225-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-79-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/Companies-59-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-58-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cisco** | Software Developer Embedded Systems I (Co-op) - Canada | Kanata Ontario Canada +5 more | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024111?s=gh-canada-internships-2027) |
-| **Cisco** | Software Developer Embedded Systems I (Full Time) - Canada | Kanata Ontario Canada +5 more | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024055?s=gh-canada-internships-2027) |
+| **Cisco** | Software Developer Embedded Systems I (Co-op) - Canada | Kanata Ontario Canada +5 more | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024111?s=gh-canada-internships-2027) |
+| **Cisco** | Software Developer Embedded Systems I (Full Time) - Canada | Kanata Ontario Canada +5 more | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024055?s=gh-canada-internships-2027) |
 | **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | Markham Ontario Canada +1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618353?s=gh-canada-internships-2027) |
 | **BMO** | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026715?s=gh-canada-internships-2027) |
 | **BMO** | Cloud DBA | Toronto, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260024254?s=gh-canada-internships-2027) |
@@ -132,12 +132,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **WSP** | Intern, Electrical/Electronics Engineering | Edmonton, AB | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-95485?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - ASIC Design /... | Markham | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096664?s=gh-canada-internships-2027) |
+| **WSP** | Intern, Electrical/Electronics Engineering | Edmonton, AB | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-95485?s=gh-canada-internships-2027) |
 | **Rocket Lab** | Electrical Engineering Intern Summer 2027 | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-7990043003?s=gh-canada-internships-2027) |
 | **Rocket Lab** | Electrical Engineering Intern Spring 2027 | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-7990045003?s=gh-canada-internships-2027) |
-| **RTX** | Stage - Hiver 2027-  Soutien aux équipes HEP (hydro-électrique propulsion) Soutien au design,... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865622?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865621?s=gh-canada-internships-2027) |
+| **RTX** | Stage - Hiver 2027-  Soutien aux équipes HEP (hydro-électrique propulsion) Soutien au design,... | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865622?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Firmware Validation, Co-Op | Vancouver | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65684?s=gh-canada-internships-2027) |
 | **ABB** | Electrical Engineering Intern-Fall 2026 | Milton | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00041790?s=gh-canada-internships-2027) |
 | **Hitachi** | Stagiaire en HVDC – Ingénieur en électricité – Maîtrise ou doctorat/Electrical Engineering... | Saint Laurent Quebec Canada +1 more | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0134935?s=gh-canada-internships-2027) |
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Fiserv** | Bilingual French Client Support -Collection Representative | Mississauga - Skymark | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10403035?s=gh-canada-internships-2027) |
+| **Fiserv** | Bilingual French Client Support -Collection Representative | Mississauga - Skymark | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fiserv-ext-R-10403035?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Gestion des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027 | Qc, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873718?s=gh-canada-internships-2027) |
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
 | **TD Bank** | Data Engineer I - PROD Support | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507969?s=gh-canada-internships-2027) |
@@ -289,7 +289,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 226 current opportunities from 59 companies**
+**🎯 225 current opportunities from 58 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
