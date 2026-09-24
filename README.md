@@ -105,8 +105,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - Montreal) | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8796054002?s=gh-canada-internships-2027) |
 | **Lyft** | Software Engineer Intern, Test Automation (Summer 2027) | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8767534002?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications | On, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874412?s=gh-canada-internships-2027) |
-| **Visier** | Test Developer Co-op (January to August 2027) | Vancouver, BC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-visiersolutionsinc-4711073006?s=gh-canada-internships-2027) |
-| **Visier** | Software Developer Co-op (January to August 2027) | Vancouver, BC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-visiersolutionsinc-4711071006?s=gh-canada-internships-2027) |
+| **Visier** | Test Developer Co-op (January to August 2027) | Vancouver, BC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-visiersolutionsinc-4711073006?s=gh-canada-internships-2027) |
+| **Visier** | Software Developer Co-op (January to August 2027) | Vancouver, BC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-visiersolutionsinc-4711071006?s=gh-canada-internships-2027) |
 | **Exegy** | Stagiaire en développement logiciel / Software Developer Intern | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-exegy-2a066cc1-ff4c-4d1c-9559-68f390b91afb?s=gh-canada-internships-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | Vancouver, BC | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-e00c49b7-44c1-4f0c-af3c-2c7a7402185b?s=gh-canada-internships-2027) |
 | **BMO** | Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260024672?s=gh-canada-internships-2027) |
@@ -135,9 +135,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Semtech** | Validation Engineering Intern | CAN - Burlington, ON | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3628?s=gh-canada-internships-2027) |
-| **Semtech** | Validation Engineering Intern | CAN - Ottawa, ON | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3618?s=gh-canada-internships-2027) |
-| **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
+| **Semtech** | Validation Engineering Intern | CAN - Burlington, ON | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3628?s=gh-canada-internships-2027) |
+| **Semtech** | Validation Engineering Intern | CAN - Ottawa, ON | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3618?s=gh-canada-internships-2027) |
+| **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
 | **ABB** | Mechanical Test Engineer Intern-Winter 2027 | Saint-Jean-sur-Richelieu | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048453?s=gh-canada-internships-2027) |
 | **Hitachi** | Electrical Component Engineering Intern (Fall 2026 or Winter 2027) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144279?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Student - Buildings (Summer 2027) - 12-26 Month Term | Calgary, AB | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1007930?s=gh-canada-internships-2027) |
@@ -195,7 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BMO** | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260027622?s=gh-canada-internships-2027) |
+| **BMO** | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260027622?s=gh-canada-internships-2027) |
 | **Intel** | AI and Compiler Engineering Graduate Intern | Virtual Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0286850?s=gh-canada-internships-2027) |
 | **TD Bank** | Quality Engineer I (Core-Java & Mainframe) | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1497021?s=gh-canada-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-internships-2027) |
