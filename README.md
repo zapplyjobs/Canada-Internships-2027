@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-281-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-279-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-84-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-55-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capital One** | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249022?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249015?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249010?s=gh-canada-internships-2027) |
-| **TD Bank** | Cyber Security Co-op/Intern – JEDI Partnership | Toronto | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1512330?s=gh-canada-internships-2027) |
+| **TD Bank** | Cyber Security Co-op/Intern – JEDI Partnership | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1512330?s=gh-canada-internships-2027) |
 | **BMO** | Cloud DBA | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260024254?s=gh-canada-internships-2027) |
 | **BMO** | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026715?s=gh-canada-internships-2027) |
 | **Citi** | Senior Java Engineer – Backend & AI-Assistant Vice President | Mississauga Ontario Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26993824?s=gh-canada-internships-2027) |
@@ -194,7 +194,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **BMO** | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260027622?s=gh-canada-internships-2027) |
 | **Intel** | AI and Compiler Engineering Graduate Intern | Virtual Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0286850?s=gh-canada-internships-2027) |
-| **TD Bank** | Quality Engineer I (Core-Java & Mainframe) | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1497021?s=gh-canada-internships-2027) |
+| **TD Bank** | Quality Engineer I (Core-Java & Mainframe) | Toronto | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1497021?s=gh-canada-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-internships-2027) |
 | **Rockwell Automation** | Co-op, Robotics Research - Physical AI (OTTO at Rockwell Automation) | Waterloo | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-6872?s=gh-canada-internships-2027) |
 | **BMO** | AI/Platform Analyst, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026129?s=gh-canada-internships-2027) |
@@ -306,7 +306,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 281 current opportunities from 55 companies**
+**🎯 279 current opportunities from 55 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
