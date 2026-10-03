@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Altera** | Software Engineer - Intern | Toronto | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03193?s=gh-canada-internships-2027) |
+| **Altera** | Software Engineer - Intern | Toronto | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03193?s=gh-canada-internships-2027) |
 | **Capital One** | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R247320?s=gh-canada-internships-2027) |
 | **Harvey** | Software Engineering Intern (Winter 2027) | Toronto | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-harvey-d40e15aa-2351-4be8-ac8f-1faf60bfcdbf?s=gh-canada-internships-2027) |
 | **General Motors** | 2027 Winter Co-op Infotainment Software Developer | Markham | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621159?s=gh-canada-internships-2027) |
@@ -110,10 +110,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BMO** | Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260024672?s=gh-canada-internships-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | Vancouver, BC +1 more | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-bc8e38eb-b68c-4234-a06a-99875df7d600?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Soutien aux equipes HEP (hybrid-electric propulsion) Soutien aux... | Qc, CA | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865619?s=gh-canada-internships-2027) |
+| **Manulife** | Winter Co-op 2027 - Software Engineering (8 Months) | Toronto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081664?s=gh-canada-internships-2027) |
+| **Manulife** | Winter Co-op 2027 - Software Engineering | Toronto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081663?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en développement IA | Montreal, QC | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100523?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | Montreal, QC | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100398?s=gh-canada-internships-2027) |
-| **Manulife** | Summer Intern 2027 - Software Engineering (8 Months) | Toronto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081685?s=gh-canada-internships-2027) |
-| **Manulife** | Summer Intern 2027 - Software Engineering | Waterloo | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081686?s=gh-canada-internships-2027) |
 | **Stripe** | Software Engineer, Intern (Summer or Winter) | Toronto | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8130805?s=gh-canada-internships-2027) |
 | **Stripe** | Software Engineer, New Grad | Toronto | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8157838?s=gh-canada-internships-2027) |
 | **Zip** | Software Engineer Intern (Winter 2027) | Toronto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-2bc7327b-1c06-418a-beeb-bec1dd70480e?s=gh-canada-internships-2027) |
@@ -133,7 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Hitachi** | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0142476?s=gh-canada-internships-2027) |
+| **Hitachi** | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0142476?s=gh-canada-internships-2027) |
 | **Marvell** | IC Validation Engineer Intern - BS/MS - 2027 Co-Op | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603925?s=gh-canada-internships-2027) |
 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287535?s=gh-canada-internships-2027) |
 | **Cisco** | Analog/mixed-signal ASIC Sustain & Designer - Acacia (Hybrid) | Kanata | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027279?s=gh-canada-internships-2027) |
