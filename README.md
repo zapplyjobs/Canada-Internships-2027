@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-308-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-307-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-85-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-60-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -77,8 +77,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cisco** | Software Developer Full Stack / Backend I (Co-op) - Canada | Kanata Ontario Canada +7 more | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024208?s=gh-canada-internships-2027) |
 | **TD Bank** | Software Engineer I (Cobol Developer) | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1512398?s=gh-canada-internships-2027) |
 | **TD Bank** | Software Engineer I | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1508757?s=gh-canada-internships-2027) |
-| **RTX** | Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications | On, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874412?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Junior Software Engineer, Emergency Call Handling | Gatineau | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67731?s=gh-canada-internships-2027) |
+| **RTX** | Internship - Winter 2027 - Software Developer Aerospace Control Systems & Web Applications | On, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874412?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Service Numériques pour les Moteurs – Développeur logiciel/ Internship -... | Qc, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874389?s=gh-canada-internships-2027) |
 | **Citi** | Senior Java Developer - Assistant Vice President | Mississauga Ontario Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26968908?s=gh-canada-internships-2027) |
 | **Citi** | Senior Java Engineer – Backend & AI-Assistant Vice President | Mississauga Ontario Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26993824?s=gh-canada-internships-2027) |
@@ -317,7 +317,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 308 current opportunities from 60 companies**
+**🎯 307 current opportunities from 60 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
