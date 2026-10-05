@@ -16,8 +16,8 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-323-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
-  <img src="https://img.shields.io/badge/Software%20Engineering-88-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Total%20Internships-316-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Software%20Engineering-87-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-62-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Lumentum** | Embedded Software Developer Co-op (Optical Circuit Switch) | Canada - Ottawa | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261320?s=gh-canada-internships-2027) |
+| **Lumentum** | Embedded Software Developer Co-op (Optical Circuit Switch) | Canada - Ottawa | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261320?s=gh-canada-internships-2027) |
 | **Semtech** | Software Developer – Web/Cloud Application, Co-op | CAN - Richmond, BC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3644?s=gh-canada-internships-2027) |
 | **Khan Academy** | Software Engineer Intern (Summer 2027) | Canada | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-khanacademy-8250259?s=gh-canada-internships-2027) |
 | **Capital One** | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R247320?s=gh-canada-internships-2027) |
@@ -173,7 +173,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Capital One** | Intern, Data Scientist - Summer 2027 | Toronto, ON | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002165?s=gh-canada-internships-2027) |
+| **Capital One** | Intern, Data Scientist - Summer 2027 | Toronto, ON | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002165?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Data Scientist Student – Winter 2027 | Saint John, NB | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12535?s=gh-canada-internships-2027) |
 | **Pinterest** | Machine Learning Intern 2027 (Toronto) | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8138080?s=gh-canada-internships-2027) |
 | **Stripe** | Data Analyst, Intern | Toronto | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8194287?s=gh-canada-internships-2027) |
@@ -221,9 +221,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | AI2 Data Science Co-op (WINTER 2027) | Toronto | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506702?s=gh-canada-internships-2027) |
 | **TD Bank** | AI2 Business Intelligence Co-op/Intern (WINTER 2027) | Toronto | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506122?s=gh-canada-internships-2027) |
 | **Trane Technologies** | 2027 BrainBox AI Intern | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7608?s=gh-canada-internships-2027) |
-| **RTX** | Stage - Hiver 2027 - Conception de la section d'essai / Internship - Winter 2027 - Test Section... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01871035?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Analyste en intelligence d’affaires et gouvernance / Internship - Winter... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868337?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Sustainable Propulsion Performance Analysis and Methods Development | On, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868800?s=gh-canada-internships-2027) |
+| **RTX** | Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique)   Internship -... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866869?s=gh-canada-internships-2027) |
 | **ShyftLabs** | AI Engineer Intern | Toronto | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
 | **DRW** | AI/ML Research Intern | Montreal | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991171?s=gh-canada-internships-2027) |
 | **Cresta** | Forward Deployed Engineering Intern (AI Agent) | Toronto | 8mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-5106468008?s=gh-canada-internships-2027) |
@@ -243,8 +243,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Field Service Engineering Student/Co-op- Winter 2027 | Halifax, NS | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12313?s=gh-canada-internships-2027) |
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1308711?s=gh-canada-internships-2027) |
-| **RTX** | Stage - Gestion des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027 | Qc, CA | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873718?s=gh-canada-internships-2027) |
 | **RTX** | Internship - Winter 2027 - Development Engineering Support Analyst | On, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01859772?s=gh-canada-internships-2027) |
+| **RTX** | Stage -  Hiver 2027- Soutien aux equipes HEP (hybrid-electric propulsion) et NSE (New Small... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865614?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -322,7 +322,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 323 current opportunities from 62 companies**
+**🎯 316 current opportunities from 62 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
