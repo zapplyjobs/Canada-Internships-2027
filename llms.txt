@@ -1,10 +1,16 @@
 # Zapply Jobs — Canada Internships 2027
 
-> Curated internship and co-op listings for students across Canada. Updated hourly. Canada-focused.
+> Curated entry-level, new-grad, and early-career internship and co-op listings across Canada. Updated continuously by an automated pipeline.
 
 ## What this repo provides
-- 200+ internship and co-op listings updated hourly
-- Jobs from Canadian employers across multiple ATS platforms
-- Structured data: title, company, location, apply URL, domain tags
-- Enriched data: required skills, visa sponsorship, summary
-- Canada-focused internships and co-ops for students
+- A README internship and co-op table kept current by the Zapply pipeline: role, company, location, posting date, and direct apply link
+- Programs from Canadian employers across major applicant-tracking systems
+- Canada-focused, internships and co-ops for students
+
+## How to use
+- Browse `README.md` — it is the canonical listing and regenerates continuously as the pipeline refreshes
+- Apply links go directly to employer career pages
+- This repo is display-only: it intentionally contains no raw data files
+
+## Who maintains this
+Zapply Jobs (zapplyjobs) — automated pipeline with human curation
