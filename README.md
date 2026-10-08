@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Teledyne** | Stagiaire en conception de logiciels pour stations de validation 3D /Intern - 3D Validation... | Canada - Montreal, QC | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36804?s=gh-canada-internships-2027) |
+| **Teledyne** | Stagiaire en conception de logiciels pour stations de validation 3D /Intern - 3D Validation... | Canada - Montreal, QC | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36804?s=gh-canada-internships-2027) |
 | **Hitachi** | Electrical Component Engineering Intern (Summer 2027, 16months) | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0145359?s=gh-canada-internships-2027) |
 | **Hitachi** | Electrical Component Engineering Intern (Fall 2026 or Winter 2027) | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0144279?s=gh-canada-internships-2027) |
 | **Hitachi** | Hardware Test Engineering Intern (Summer 2027, 16months) | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0142476?s=gh-canada-internships-2027) |
