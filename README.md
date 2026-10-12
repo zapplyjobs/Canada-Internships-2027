@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-320-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-321-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-92-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-67-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -78,11 +78,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Software Engineer I - Development and Quality Engineering | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1514695?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Software Developer, Embedded Appliances Co-Op | Vancouver | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69581?s=gh-canada-internships-2027) |
 | **General Motors** | 2027 Winter Co-op Vehicle Experience Software Developer | Markham | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621872?s=gh-canada-internships-2027) |
-| **Capital One** | Intern, Full Stack Software Engineer - Summer 2027 | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003143?s=gh-canada-internships-2027) |
 | **Lumentum** | Embedded Software Engineer Co-op/Intern | Canada - Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261370?s=gh-canada-internships-2027) |
+| **Capital One** | Intern, Full Stack Software Engineer - Summer 2027 | Toronto, ON | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003143?s=gh-canada-internships-2027) |
 | **Khan Academy** | Software Engineer Intern (Summer 2027) | Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-khanacademy-8250259?s=gh-canada-internships-2027) |
-| **Semtech** | Software Developer – Web/Cloud Application, Co-op | CAN - Richmond, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3644?s=gh-canada-internships-2027) |
 | **Lumentum** | Embedded Software Developer Co-op (Optical Circuit Switch) | Canada - Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261320?s=gh-canada-internships-2027) |
+| **Semtech** | Software Developer – Web/Cloud Application, Co-op | CAN - Richmond, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3644?s=gh-canada-internships-2027) |
 | **Harvey** | Software Engineering Intern (Winter 2027) | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-harvey-d40e15aa-2351-4be8-ac8f-1faf60bfcdbf?s=gh-canada-internships-2027) |
 | **General Motors** | 2027 Winter Co-op Infotainment Software Developer | Markham | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621159?s=gh-canada-internships-2027) |
 | **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-112518690523488966?s=gh-canada-internships-2027) |
@@ -106,9 +106,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Robinhood** | Software Developer Intern, Web (Summer 2027) | Toronto | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8199744?s=gh-canada-internships-2027) |
 | **Robinhood** | Software Developer Intern, Backend (Summer 2027) | Toronto | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8142930?s=gh-canada-internships-2027) |
 | **Robinhood** | Software Developer Intern/Co-op, Backend (Winter 2027) | Toronto | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-robinhood-8194428?s=gh-canada-internships-2027) |
-| **Entrust** | Intern - Software Developer - 8 months Hybrid in Ottawa | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entrust-entrustcareers-R004358?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern, AI Developer/ Stagiaire en développement IA | Montreal, QC | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100523?s=gh-canada-internships-2027) |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel | Montreal, QC | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100398?s=gh-canada-internships-2027) |
+| **Entrust** | Intern - Software Developer - 8 months Hybrid in Ottawa | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entrust-entrustcareers-R004358?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Soutien aux equipes HEP (hybrid-electric propulsion) Soutien aux... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865619?s=gh-canada-internships-2027) |
 | **Lyft** | Software Engineer Intern, Machine Learning (Summer 2027 - Toronto) | Toronto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8802332002?s=gh-canada-internships-2027) |
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - Montreal) | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8796054002?s=gh-canada-internships-2027) |
@@ -320,7 +320,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 320 current opportunities from 67 companies**
+**🎯 321 current opportunities from 67 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
