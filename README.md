@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | 161 Bay Street Corporate | 38m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509223?s=gh-canada-internships-2027) |
+| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | 161 Bay Street Corporate | 49m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509223?s=gh-canada-internships-2027) |
 | **Nokia** | Embedded C/C++ SW Developer Co-op/Intern | Canada | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-41311?s=gh-canada-internships-2027) |
 | **Pebl** | Software Engineering, Intern | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-pebl-49d8b355-620b-4dde-be4b-5489abf4c9cf?s=gh-canada-internships-2027) |
 | **Aptiv** | Software Engineering Intern | CAN Kanata (2), ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704368?s=gh-canada-internships-2027) |
@@ -175,11 +175,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Tower Research Capital** | Machine Learning Intern | Montreal | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-towerresearchcapital-7077280?s=gh-canada-internships-2027) |
+| **Tower Research Capital** | Machine Learning Intern | Montreal | 58m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-towerresearchcapital-7077280?s=gh-canada-internships-2027) |
 | **Microsoft** | Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning | Montreal, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061939?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Data Scientist - Winter 2027 | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999619?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Data Scientist - Summer 2027 | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002165?s=gh-canada-internships-2027) |
-| **1Password** | Data Intern  - Product Analytics - Winter 2027 | Remote | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-412c1aac-13ce-4cc9-9c81-90a9a7a2ee48?s=gh-canada-internships-2027) |
+| **1Password** | Data Intern  - Product Analytics - Winter 2027 | Remote | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-412c1aac-13ce-4cc9-9c81-90a9a7a2ee48?s=gh-canada-internships-2027) |
 | **TD Bank** | Applied Machine Learning Scientist I | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506451?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Data Scientist Student – Winter 2027 | Saint John, NB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12535?s=gh-canada-internships-2027) |
 | **Pinterest** | Machine Learning Intern 2027 (Toronto) | Toronto, ON | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8138080?s=gh-canada-internships-2027) |
