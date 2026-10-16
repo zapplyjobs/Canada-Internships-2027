@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | 161 Bay Street Corporate | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509223?s=gh-canada-internships-2027) |
+| **TD Bank** | TD Asset Management Portfolio Analytics Developer Intern/Co-Op (Winter 2027) | 161 Bay Street Corporate | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509223?s=gh-canada-internships-2027) |
 | **Affirm** | Software Engineer I, Fullstack (Search) | Canada | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8017342003?s=gh-canada-internships-2027) |
 | **1Password** | Junior Developer | Remote | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-a492badd-a02f-4360-aa15-7ea8c6e2c85e?s=gh-canada-internships-2027) |
 | **1Password** | Junior Security Engineer | Remote | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-49f0fe51-fcdc-46d8-a046-35f357b0cf6e?s=gh-canada-internships-2027) |
@@ -138,7 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Altera** | FPGA IP Design Engineer -  Intern | Toronto | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03324?s=gh-canada-internships-2027) |
+| **Altera** | FPGA IP Design Engineer -  Intern | Toronto | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03324?s=gh-canada-internships-2027) |
 | **Lumentum** | Electrical Engineer Co-op/Intern | Canada - Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261433?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Intern – Buildings (Winter 2027) - 8 Month Term | Edmonton, AB | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008334?s=gh-canada-internships-2027) |
 | **Hitachi** | Stagiaire Génie Électrique et Contrôle / Electrical and Controls Engineering Intern | Varennes | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0147259?s=gh-canada-internships-2027) |
@@ -150,9 +150,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Marvell** | IC Validation Engineer Intern - BS/MS - 2027 Co-Op | Ottawa | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603925?s=gh-canada-internships-2027) |
 | **RTX** | Electrical Engineering Co-op | On, CA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878707?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months) | Ottawa | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3097245?s=gh-canada-internships-2027) |
+| **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
 | **Semtech** | Validation Engineering Intern | CAN - Burlington, ON | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3628?s=gh-canada-internships-2027) |
 | **Semtech** | Validation Engineering Intern | CAN - Ottawa, ON | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-semtech-semtechcareers-REQ3618?s=gh-canada-internships-2027) |
-| **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Co-op Student - Winter 2027 | St. John'S, NL | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1007995?s=gh-canada-internships-2027) |
 | **ABB** | Mechanical Test Engineer Intern-Winter 2027 | Saint-Jean-sur-Richelieu | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048453?s=gh-canada-internships-2027) |
 | **Thermo Fisher Scientific** | Validation Engineering Co-op | Mississauga | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366615?s=gh-canada-internships-2027) |
@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506711?s=gh-canada-internships-2027) |
+| **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506711?s=gh-canada-internships-2027) |
 | **Tower Research Capital** | Machine Learning Intern | Montreal | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-towerresearchcapital-7077280?s=gh-canada-internships-2027) |
 | **Microsoft** | Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning | Montreal, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061939?s=gh-canada-internships-2027) |
 | **Capital One** | Intern, Data Scientist - Winter 2027 | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999619?s=gh-canada-internships-2027) |
