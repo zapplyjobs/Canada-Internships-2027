@@ -129,7 +129,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, ON | 4mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4687337006?s=gh-canada-internships-2027) |
 | **Squarepoint Capital** | Intern Software Developer - Montreal - 2027 | Montreal | 5mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-squarepointcapital-7905463?s=gh-canada-internships-2027) |
 | **Cresta** | Software Engineer Intern | Toronto Canada | 25mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123841008?s=gh-canada-internships-2027) |
-| **Databricks** | Software Engineering Intern (2027) | Bellevue +3 more | 38mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865687002?s=gh-canada-internships-2027) |
+| **Databricks** | Software Engineering Intern (2027) | Bellevue +3 more | 39mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865687002?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
