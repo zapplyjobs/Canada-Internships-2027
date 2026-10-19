@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-350-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-351-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-94-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-68-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BMO** | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Toronto, ON | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260029417?s=gh-canada-internships-2027) |
+| **BMO** | Junior Cloud Engineer, Summer 2027 (Co-op/Internship) - 16 months | Toronto, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260029417?s=gh-canada-internships-2027) |
 | **Altera** | Software Engineer -  Intern | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03320?s=gh-canada-internships-2027) |
 | **Cisco** | Software Developer Full Stack / Backend I (Co-op) - Canada | Kanata Ontario Canada +7 more | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024208?s=gh-canada-internships-2027) |
 | **Cisco** | Software Developer Embedded Systems II (Co-op) – Canada | Kanata Ontario Canada +6 more | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024136?s=gh-canada-internships-2027) |
@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | ASIC Verification Intern - Summer 2027 | Canada | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027982?s=gh-canada-internships-2027) |
+| **NVIDIA** | ASIC Verification Intern - Summer 2027 | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027982?s=gh-canada-internships-2027) |
 | **Altera** | FPGA IP Design Engineer -  Intern | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03324?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Intern – Buildings (Winter 2027) - 8 Month Term | Edmonton, AB | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008334?s=gh-canada-internships-2027) |
 | **Lumentum** | Electrical Engineer Co-op/Intern | Canada - Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261433?s=gh-canada-internships-2027) |
@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Lumentum** | Optical Algorithms and Analytics Engineering Co-op/Intern | Canada - Ottawa | 59m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261547?s=gh-canada-internships-2027) |
+| **Lumentum** | Optical Algorithms and Analytics Engineering Co-op/Intern | Canada - Ottawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261547?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Machine Learning AISW Internship - Canada (4 Months) | Markham | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3098303?s=gh-canada-internships-2027) |
 | **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506711?s=gh-canada-internships-2027) |
 | **TD Bank** | Actuarial Analyst I | Montréal | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515968?s=gh-canada-internships-2027) |
@@ -216,7 +216,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BMO** | Manager – AI Strategy & Product Management | Toronto, ON | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260027043?s=gh-canada-internships-2027) |
+| **BMO** | Manager – AI Strategy & Product Management | Toronto, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260027043?s=gh-canada-internships-2027) |
 | **Intel** | GPU & AI Accelerator Hardware Design Undergraduate Intern | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287539?s=gh-canada-internships-2027) |
 | **Parsons** | AI & Digital Innovation Engineering Intern | ON, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185553?s=gh-canada-internships-2027) |
 | **Hitachi** | Stagiaire en Génie Manufacturier/Manufacturing Engineering Intern | Varennes | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0148373?s=gh-canada-internships-2027) |
@@ -334,7 +334,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 350 current opportunities from 68 companies**
+**🎯 351 current opportunities from 68 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
