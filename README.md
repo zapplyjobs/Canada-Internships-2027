@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Exegy** | Stagiaire en développement logiciel / Software Developer Intern | Montreal | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-exegy-2a066cc1-ff4c-4d1c-9559-68f390b91afb?s=gh-canada-internships-2027) |
+| **Exegy** | Stagiaire en développement logiciel / Software Developer Intern | Montreal | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-exegy-2a066cc1-ff4c-4d1c-9559-68f390b91afb?s=gh-canada-internships-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (January - August 2027) | Vancouver, BC | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-e00c49b7-44c1-4f0c-af3c-2c7a7402185b?s=gh-canada-internships-2027) |
 | **Geotab** | Vehicle Systems Engineering | Waterloo | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5446132008?s=gh-canada-internships-2027) |
 | **1Password** | Junior Security Engineer | Remote | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-49f0fe51-fcdc-46d8-a046-35f357b0cf6e?s=gh-canada-internships-2027) |
