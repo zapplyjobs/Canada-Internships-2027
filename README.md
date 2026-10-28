@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Altera** | Software Engineer - Intern | Toronto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03382?s=gh-canada-internships-2027) |
+| **Altera** | Software Engineer - Intern | Toronto | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03382?s=gh-canada-internships-2027) |
 | **Aptiv** | Cloud Engineering Intern | CAN Kanata (2), ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704383?s=gh-canada-internships-2027) |
 | **1Password** | Junior Developer | Remote | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-a492badd-a02f-4360-aa15-7ea8c6e2c85e?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Localization and QA Automation Developer Co-Op | Vancouver | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70123?s=gh-canada-internships-2027) |
@@ -168,7 +168,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Manulife** | Operations & Data Analyst Co-op (8 Months) | Waterloo Ontario +1 more | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091348?s=gh-canada-internships-2027) |
+| **Manulife** | Operations & Data Analyst Co-op (8 Months) | Waterloo Ontario +1 more | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091348?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Data Analyst Student – Winter 2027 | Saint John, NB | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12998?s=gh-canada-internships-2027) |
 | **Trimble** | Firmware & Machine Learning Engineering Intern (16 Months) | Canada - Richmond Hill | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57980?s=gh-canada-internships-2027) |
 | **CIBC** | Data Analyst co-op | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2622122?s=gh-canada-internships-2027) |
