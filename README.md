@@ -16,9 +16,9 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-256-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-258-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-72-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/Companies-67-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-69-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -114,13 +114,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - Montreal) | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8796054002?s=gh-canada-internships-2027) |
 | **Stripe** | Software Engineer, Intern (Summer or Winter) | Toronto | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8130805?s=gh-canada-internships-2027) |
 | **Stripe** | Software Engineer, New Grad | Toronto | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8157838?s=gh-canada-internships-2027) |
-| **Fullscript** | Software Developer (Co-op Opportunities) | Ottawa, ON | 3mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-fullscript-f2682bc2-454c-4bcd-b71c-639236d09a8e?s=gh-canada-internships-2027) |
-| **DRW** | Software Developer Intern | Montreal | 3mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991196?s=gh-canada-internships-2027) |
-| **TribalScale** | Agile Software Engineer - Co-op | Toronto, ON | 4mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4687337006?s=gh-canada-internships-2027) |
-| **Squarepoint Capital** | Intern Software Developer - Montreal - 2027 | Montreal | 5mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-squarepointcapital-7905463?s=gh-canada-internships-2027) |
-| **Cresta** | Software Engineer Intern | Toronto Canada | 25mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123841008?s=gh-canada-internships-2027) |
-| **Databricks** | Software Engineer - New Grad (2027 Start) | Bellevue +3 more | 39mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865698002?s=gh-canada-internships-2027) |
-| **Databricks** | Software Engineering Intern (2027) | Bellevue +3 more | 39mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865687002?s=gh-canada-internships-2027) |
+| **Fullscript** | Software Developer (Co-op Opportunities) | Ottawa, ON | 2026-07-22 | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-fullscript-f2682bc2-454c-4bcd-b71c-639236d09a8e?s=gh-canada-internships-2027) |
+| **DRW** | Software Developer Intern | Montreal | 2026-07-13 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991196?s=gh-canada-internships-2027) |
+| **TribalScale** | Agile Software Engineer - Co-op | Toronto, ON | 2026-06-09 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4687337006?s=gh-canada-internships-2027) |
+| **Squarepoint Capital** | Intern Software Developer - Montreal - 2027 | Montreal | 2026-05-07 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-squarepointcapital-7905463?s=gh-canada-internships-2027) |
+| **Cresta** | Software Engineer Intern | Toronto Canada | 2024-09-10 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123841008?s=gh-canada-internships-2027) |
+| **Databricks** | Software Engineer - New Grad (2027 Start) | Bellevue +3 more | 2023-08-04 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865698002?s=gh-canada-internships-2027) |
+| **Databricks** | Software Engineering Intern (2027) | Bellevue +3 more | 2023-08-04 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-6865687002?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -182,8 +182,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Data Analyst, Intern | Toronto | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8194287?s=gh-canada-internships-2027) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8194285?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months) | Markham | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3096484?s=gh-canada-internships-2027) |
-| **Epic Games** | Machine Learning Intern | Montreal, QC | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6138140004?s=gh-canada-internships-2027) |
-| **Cresta** | Machine Learning Engineering Intern | Toronto | 25mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123863008?s=gh-canada-internships-2027) |
+| **Epic Games** | Machine Learning Intern | Montreal, QC | 2026-08-07 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6138140004?s=gh-canada-internships-2027) |
+| **Cresta** | Machine Learning Engineering Intern | Toronto | 2024-09-11 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-4123863008?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -206,9 +206,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | Stagiaire en Génie Manufacturier/Manufacturing Engineering Intern | Varennes | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0148373?s=gh-canada-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-internships-2027) |
 | **Amazon Development Centre Canada ULC - K03** | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | Toronto, ON | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-3bf6731a-c458-4019-9705-b786a6cc8748?s=gh-canada-internships-2027) |
-| **ShyftLabs** | AI Engineer Intern | Toronto | 3mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
-| **DRW** | AI/ML Research Intern | Montreal | 3mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991171?s=gh-canada-internships-2027) |
-| **Cresta** | Forward Deployed Engineering Intern (AI Agent) | Toronto | 8mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-5106468008?s=gh-canada-internships-2027) |
+| **ShyftLabs** | AI Engineer Intern | Toronto | 2026-07-21 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shyftlabs-4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd?s=gh-canada-internships-2027) |
+| **DRW** | AI/ML Research Intern | Montreal | 2026-07-13 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-7991171?s=gh-canada-internships-2027) |
+| **Cresta** | Forward Deployed Engineering Intern (AI Agent) | Toronto | 2026-02-03 |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-cresta-5106468008?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -221,8 +221,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Trimble** | Geospatial Support Analyst Intern | Canada - Richmond Hill | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57921?s=gh-canada-internships-2027) |
+| **Eaton** | Intern, Field Service Representative (4/8 months) - Ottawa, ON | Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239322307?s=gh-canada-internships-2027) |
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1308711?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027- Support à l’ingénierie du développement / Internship - Winter 2027 -... | Qc, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867252?s=gh-canada-internships-2027) |
+| **Eaton** | Intern, Field Service Representative (4 to 12-month) - Dartmouth, NS | Dartmouth | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239381346?s=gh-canada-internships-2027) |
 | **Danaher** | Field Service Representative (Chicoutimi, QC - remote) | Quebec City | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1308711?s=gh-canada-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -310,7 +312,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 256 current opportunities from 67 companies**
+**🎯 258 current opportunities from 69 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
