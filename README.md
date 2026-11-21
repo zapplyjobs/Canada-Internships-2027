@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Affirm** | Software Engineer I, Backend (Streaming Infra) | Canada | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8201471003?s=gh-canada-internships-2027) |
+| **Affirm** | Software Engineer I, Backend (Streaming Infra) | Canada | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8201471003?s=gh-canada-internships-2027) |
 | **Affirm** | Software Engineer I, Fullstack (Disputes Platform) | Canada | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8196691003?s=gh-canada-internships-2027) |
 | **Altera** | FPGA Software Engineer Intern | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03445?s=gh-canada-internships-2027) |
 | **Roblox** | \[Summer 2027 Canada\] Software Engineer Intern, Engine | Vancouver, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-roblox-8386080?s=gh-canada-internships-2027) |
 | **Capital One** | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1006039?s=gh-canada-internships-2027) |
-| **TD Bank** | Software Engineer I (Full Stack) | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518503?s=gh-canada-internships-2027) |
+| **TD Bank** | Software Engineer I (Full Stack) | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518503?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Software Engineer Co-op | Gatineau | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70361?s=gh-canada-internships-2027) |
 | **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | Oshawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624328?s=gh-canada-internships-2027) |
 | **Citi** | Junior Developer | Mississauga Ontario Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261007699?s=gh-canada-internships-2027) |
@@ -144,8 +144,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Electrical Engineering Student – Water (Summer 2027) | Burnaby, BC | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008921?s=gh-canada-internships-2027) |
 | **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Student – Buildings (Summer 2027) - 4-12 Term | Yellowknife, NT | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008906?s=gh-canada-internships-2027) |
-| **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515326?s=gh-canada-internships-2027) |
 | **Ecolab** | Electrical Engineering Co-Op | Calgary | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00310179?s=gh-canada-internships-2027) |
+| **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515326?s=gh-canada-internships-2027) |
 | **Altera** | FPGA Design Verification Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03440?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Co-op Student - Winter 2027 | St. John's, NL | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1007995?s=gh-canada-internships-2027) |
 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287535?s=gh-canada-internships-2027) |
