@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and co-ops across tech, business, healthcare, and more for students in Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-264-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-274-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Software%20Engineering-73-2F81F7?style=flat&logo=briefcase" height="30" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Companies-76-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Altera** | Embedded Solutions Intern | Toronto | 33m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03512?s=gh-canada-internships-2027) |
+| **Altera** | Embedded Solutions Intern | Toronto | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03512?s=gh-canada-internships-2027) |
 | **Cisco** | Software Developer I (Full Time) - Canada | Ottawa Ontario Canada +1 more | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028166?s=gh-canada-internships-2027) |
 | **Affirm** | Software Engineer I, Backend (Streaming Infra) | Canada | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8201471003?s=gh-canada-internships-2027) |
 | **Affirm** | Software Engineer I, Fullstack (Disputes Platform) | Canada | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8196691003?s=gh-canada-internships-2027) |
@@ -92,10 +92,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Aptiv** | Cloud Engineering Intern | CAN Kanata (2), ON | 3w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704383?s=gh-canada-internships-2027) |
 | **Xsolla** | Junior Frontend Developer, Custom Webshop Development | Montreal | 3w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/lever-xsolla-a71646ad-6ac5-4103-b68c-3d399fc10b35?s=gh-canada-internships-2027) |
 | **Motorola Solutions** | Localization and QA Automation Developer Co-Op | Vancouver | 4w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70123?s=gh-canada-internships-2027) |
-| **Lumentum** | Embedded Software Engineer Co-op/Intern | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261370?s=gh-canada-internships-2027) |
-| **Lumentum** | Embedded Software Developer Co-op (Optical Circuit Switch) | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261320?s=gh-canada-internships-2027) |
 | **Aptiv** | Cloud Software Engineer Intern | CAN Kanata (2), ON | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704375?s=gh-canada-internships-2027) |
 | **Aptiv** | Cloud Engineer Intern | CAN Kanata (2), ON | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704376?s=gh-canada-internships-2027) |
+| **Lumentum** | Embedded Software Engineer Co-op/Intern | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261370?s=gh-canada-internships-2027) |
+| **Lumentum** | Embedded Software Developer Co-op (Optical Circuit Switch) | Canada - Ottawa | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261320?s=gh-canada-internships-2027) |
 | **Google** | Software Developer Intern, PhD, Summer 2027 | Canada | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/google-112518690523488966?s=gh-canada-internships-2027) |
 | **Nokia** | Network Systems Engineer Co-op/Intern | Canada | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-41672?s=gh-canada-internships-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, BC | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-a4e49f0a-7e3c-40b1-95a1-28fd907526d0?s=gh-canada-internships-2027) |
@@ -143,8 +143,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Marvell** | Data Center Silicon Hardware Engineering Intern - BS - 2027 Co-Op | Ottawa Canada +1 more | 1w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604525?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Student – Buildings (Summer 2027) - 4-12 Term | Yellowknife, NT | 1w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008906?s=gh-canada-internships-2027) |
 | **Ecolab** | Electrical Engineering Co-Op | Calgary | 2w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00310179?s=gh-canada-internships-2027) |
-| **Stantec** | Electrical Engineering Co-op Student - Winter 2027 | St. John's, NL | 2w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1007995?s=gh-canada-internships-2027) |
 | **Altera** | FPGA Design Verification Intern | Toronto | 2w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03440?s=gh-canada-internships-2027) |
+| **Stantec** | Electrical Engineering Co-op Student - Winter 2027 | St. John's, NL | 2w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1007995?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Software Validation Engineering Internship - Canada (16 months) | Markham | 2w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3099139?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months) | Markham | 3w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3099058?s=gh-canada-internships-2027) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC | 3w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-arlo-external-careers-JR100446?s=gh-canada-internships-2027) |
@@ -199,7 +199,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Altera** | AI Software Development Engineer Intern | Toronto | 33m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03487?s=gh-canada-internships-2027) |
+| **Altera** | AI Software Development Engineer Intern | Toronto | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03487?s=gh-canada-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 5d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-internships-2027) |
 | **HPE** | Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en... | St. Laurent | 5d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214294?s=gh-canada-internships-2027) |
 | **HPE (University)** | Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en... | St. Laurent | 5d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214294?s=gh-canada-internships-2027) |
@@ -318,7 +318,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 264 current opportunities from 76 companies**
+**🎯 274 current opportunities from 76 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
