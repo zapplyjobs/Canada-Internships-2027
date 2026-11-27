@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **TD Bank** | Mobile Software Engineer I (iOS) | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1520654?s=gh-canada-internships-2027) |
 | **TD Bank** | Software Engineer I | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1519716?s=gh-canada-internships-2027) |
 | **TD Bank** | Software Engineer I (Full Stack) | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518503?s=gh-canada-internships-2027) |
-| **TD Bank** | Mobile Software Engineer I (iOS) | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1520654?s=gh-canada-internships-2027) |
 | **Cisco** | Software Developer I (Full Time) - Canada | Ottawa Ontario Canada +1 more | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028166?s=gh-canada-internships-2027) |
 | **Altera** | Embedded Solutions Intern | Toronto | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03512?s=gh-canada-internships-2027) |
 | **Cisco** | Software Developer I (Full Time) - Canada | Ottawa | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2028166?s=gh-canada-internships-2027) |
@@ -107,7 +107,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Embedded C/C++ SW Developer Co-op/Intern | Canada | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-41311?s=gh-canada-internships-2027) |
 | **Pinterest** | Software Engineering Intern 2027 (Toronto) | Toronto, ON | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8138039?s=gh-canada-internships-2027) |
 | **RTX** | Stage - Hiver 2027 - Soutien aux equipes HEP (hybrid-electric propulsion) Soutien aux... | Qc, CA | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865619?s=gh-canada-internships-2027) |
-| **Lyft** | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto | 1mo |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8802222002?s=gh-canada-internships-2027) |
+| **Lyft** | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto | 2026-09-28 |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8802222002?s=gh-canada-internships-2027) |
 | **Kent Building Supplies** | Security Analyst Student - Winter 2027 | Saint John, NB | 2026-09-23 |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12360?s=gh-canada-internships-2027) |
 | **Magnet Forensics** | Software Developer Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | 2026-09-18 |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/lever-magnetforensics-6eba87dc-f110-47b2-8015-31311ca60f52?s=gh-canada-internships-2027) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start | Toronto | 2026-09-17 | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8212517?s=gh-canada-internships-2027) |
@@ -135,8 +135,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515326?s=gh-canada-internships-2027) |
-| **NVIDIA** | ASIC Verification Intern - Summer 2027 | Canada | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027982?s=gh-canada-internships-2027) |
 | **TD Bank** | Applied Machine Learning Scientist I ATH# 5645 (Tabular Deep Learning Model Validation) | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1514923?s=gh-canada-internships-2027) |
+| **NVIDIA** | ASIC Verification Intern - Summer 2027 | Canada | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027982?s=gh-canada-internships-2027) |
 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Canada | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287535?s=gh-canada-internships-2027) |
 | **Stantec** | Electrical Engineering Student – Water (Summer 2027) | Burnaby, BC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008921?s=gh-canada-internships-2027) |
 | **Danaher** | Hardware Engineering Co-op | Concord | 1w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1317537?s=gh-canada-internships-2027) |
