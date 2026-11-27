@@ -169,7 +169,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | Machine Learning Engineer I | Toronto | 2h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524380?s=gh-canada-internships-2027) |
+| **TD Bank** | Machine Learning Engineer I | Toronto | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524380?s=gh-canada-internships-2027) |
 | **Qualcomm** | FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months) | Markham | 1w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3099497?s=gh-canada-internships-2027) |
 | **Stripe** | PhD Machine Learning Engineer, Intern | Toronto | 3w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8328664?s=gh-canada-internships-2027) |
 | **Stripe** | Master's Machine Learning Engineer, Intern | Toronto | 3w | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8333122?s=gh-canada-internships-2027) |
@@ -198,7 +198,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | Quality Engineer I - Mainframe & API Testing | Toronto | 2h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1523016?s=gh-canada-internships-2027) |
+| **TD Bank** | Quality Engineer I - Mainframe & API Testing | Toronto | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1523016?s=gh-canada-internships-2027) |
 | **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-internships-2027) |
 | **HPE (University)** | Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en... | St. Laurent | 1w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214294?s=gh-canada-internships-2027) |
 | **HPE** | Software Development Intern, AI-Assisted Development (Winter 2027)  /  Stagiaire en... | St. Laurent | 1w |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214294?s=gh-canada-internships-2027) |
